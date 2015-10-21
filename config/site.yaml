@@ -1,0 +1,23 @@
+title: HibbittsDesign.org
+description: Notes, thoughts and experiments from HibbittsDesign.org.
+taxonomies: [tags]
+disqus_shortname: paulhibbitts
+owner:
+  name: Paul Hibbitts
+  email: 'paul@paulhibbitts.com'
+  avatar: avatar.jpg
+  bio: Educator/interaction designer creating better learning experiences for our connected world. Learning changes you.
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: hibbittsdesign
+  facebook:
+  github: hibbittsdesign
+  stackexchange:
+  linkedin: paulhibbitts
+  instagram:
+  flickr:
+  tumblr:
+  # Entre the full URL to your Google+ profile.
+  google_plus:
+
+metadata:
+    description: 'Notes, thoughts and experiments from HibbittsDesign.org'
