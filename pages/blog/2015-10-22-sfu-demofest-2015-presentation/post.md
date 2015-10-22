@@ -5,7 +5,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'DEMOFest 2015 Presentation on Flipped-LMS'
-    'twitter:description': 'In-progress description of my DEMOFest 2015 session.'
+    'twitter:description': 'Description of my DEMOFest 2015 session.'
     'twitter:image': 'http://hibbittsdesign.org/user/pages/blog/2015-10-22-sfu-demofest-2015-presentation/cmpt-363-course-companion-home.png'
 slug: sfu-demofest2015-presentation
 taxonomy:
@@ -22,7 +22,7 @@ I am excited to be presenting my approach of a Flipped-LMS at Simon Fraser Unive
 
 Here is the draft description of my session:
  
-**Flipping the LMS: Benefits, and Lessons Learned, of Using an Alternative Front-end to Canvas**
+**Flipping the LMS: Benefits and Lessons Learned of Using an Alternative Front-end to Canvas**
  
 A flipped-LMS is where an open platform, in the control of 
 instructors and students, is an alternative front-end to the 
