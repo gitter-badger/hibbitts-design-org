@@ -15,6 +15,6 @@ comments: false
 continue_link: false
 ---
 
-A flipped-LMS is where an open platform, in the control of instructors and students, is an alternative front-end to the institutional LMS. When does a flipped-LMS approach make sense? When **benefit > effort** for both students and instructors. Both are contextual and audience specific.
+A flipped-LMS is where an open platform, in the control of instructors and students, is an alternative front-end to the institutional LMS. With a flipped-LMS approach, instructors can create better experiences for students & themselves _today_. Deep-links to LMS elements are the only requirement.
 
 Explore an example flipped-LMS implementation for my Simon Fraser University CMPT 363 course at [http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com/).
