@@ -19,10 +19,10 @@ continue_link: false
 
 I am excited to be presenting my approach of a flipped-LMS at Simon Fraser University's DEMOFest 2015 on November 24th. Here is the draft of my session:
 
-**Title**
+**Title**  
 Flipping the LMS: Benefits, and lessons learned, of using an alternative front-end to Canvas
 
-**Description**
+**Description**  
 A flipped-LMS is where an open platform, in the control of 
 instructors and students, is an alternative front-end to the 
 institutional LMS.
