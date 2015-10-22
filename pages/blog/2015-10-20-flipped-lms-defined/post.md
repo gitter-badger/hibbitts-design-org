@@ -17,4 +17,4 @@ continue_link: false
 
 A flipped-LMS is where an open platform, in the control of instructors and students, is an alternative front-end to the institutional LMS. With this approach, instructors can create better experiences for students and themselves _today_. Deep-links to any needed LMS elements (i.e. assignment submissions, discussion forums, grades, etc.) with flow-through for user authentication is the only back-end requirement.
 
-Explore an example flipped-LMS implementation for my Simon Fraser University CMPT 363 course at [http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com/).
+Explore an example flipped-LMS implementation, created for my Simon Fraser University CMPT 363 course and built with [Grav CMS](http://grav.org) and [Canvas LMS](http://www.canvaslms.com/) at [http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com/).
