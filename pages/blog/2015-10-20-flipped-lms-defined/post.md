@@ -5,7 +5,7 @@ date: 10/20/2015
 comments: false
 continue_link: false
 taxonomy:
-    tags: [flipped-LMS]
+    tags: [flipped-LMS, featured]
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
