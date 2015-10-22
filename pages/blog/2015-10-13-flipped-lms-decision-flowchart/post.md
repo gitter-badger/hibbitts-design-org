@@ -24,4 +24,4 @@ A live example of a flipped-LMS approach, using the CMS Grav and Canvas LMS, is 
 
 ![Flipped-LMS Approach Decision Flowchart](../2015-10-13-flipped-lms-decision-flowchart/Flipped-LMS.png)
 
-_Figure 1. Basic flowchart to illustrate a flipped-LMS decision pathway _([http://creately.com/diagram/if07z6b11/Nr85UCBXA992344HmBhg5thqg%3D](http://creately.com/diagram/if07z6b11/Nr85UCBXA992344HmBhg5thqg%3D))
+_Figure 1. Basic flowchart to illustrate a flipped-LMS decision pathway _([http://bit.ly/201zVj0](http://bit.ly/201zVj0))
