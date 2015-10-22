@@ -6,6 +6,7 @@ metadata:
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'DEMOFest 2015 Presentation on Flipped-LMS'
     'twitter:description': 'In-progress description of my DEMOFest 2015 session.'
+    'twitter:image': 'http://hibbittsdesign.org/user/pages/blog/2015-10-22-sfu-demofest-2015-presentation/cmpt-363-course-companion-home.png'
 slug: sfu-demofest2015-presentation
 taxonomy:
     tags:
