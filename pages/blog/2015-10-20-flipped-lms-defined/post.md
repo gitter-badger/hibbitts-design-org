@@ -1,18 +1,20 @@
 ---
-title: "Flipped-LMS (Re)Defined"
+title: 'Flipped-LMS (Re)Defined'
+date: '20-10-2015 00:00'
+metadata:
+    'twitter:card': summary
+    'twitter:site': '@hibbittsdesign'
+    'twitter:title': 'Flipped-LMS (Re)Defined'
+    'twitter:description': 'My personal definition of a flipped-LMS approach.'
 slug: redefining-a-flipped-lms-approach
-date: 10/20/2015
+taxonomy:
+    tags:
+        - flipped-LMS
+        - featured
 comments: false
 continue_link: false
-taxonomy:
-    tags: [flipped-LMS, featured]
-metadata:
-    'twitter:card' : summary
-    'twitter:site' : @hibbittsdesign
-    'twitter:title' : Flipped-LMS (Re)Defined
-    'twitter:description' : My personal definition of a flipped-LMS approach.
 ---
 
-A flipped-LMS is where an open platform, in the control of instructors and students, is an alternative front-end to the institutional LMS.
+A flipped-LMS is where an open platform, in the control of instructors and students, is an alternative front-end to the institutional LMS. When does a flipped-LMS approach make sense? When **benefit > effort** for both students and instructors. Both are contextual and audience specific.
 
-What might this look like? Explore my course companion for CMPT 363 at [http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com/).
+Explore an example flipped-LMS implementation for my Simon Fraser University CMPT 363 course at [http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com/).
