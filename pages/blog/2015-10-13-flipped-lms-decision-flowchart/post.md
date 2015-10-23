@@ -5,7 +5,7 @@ date: 10/13/2015
 comments: false
 continue_link: false
 taxonomy:
-    tags: [flipped-LMS, flowchart, example, GravCMS]
+    tags: [flipped-LMS, flowchart, example, diagram, GravCMS]
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
