@@ -2,8 +2,7 @@
 title: "Desired Qualities of a Flipped-LMS"
 slug: desired-qualities-of-a-flipped-lms-approach
 date: 10/16/2015
-comments: false
-continue_link: false
+comments: true
 taxonomy:
     tags: [flipped-LMS, principles]
 metadata:

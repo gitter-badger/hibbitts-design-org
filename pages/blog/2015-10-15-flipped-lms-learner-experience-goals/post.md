@@ -2,8 +2,7 @@
 title: "Positive Learner Experience Goals for a Flipped-LMS"
 slug: positive-learner-experience-goals-critical-for-a-flipped-LMS-approach
 date: 10/15/2015
-comments: false
-continue_link: false
+comments: true
 taxonomy:
     tags: [flipped-LMS, principles]
 metadata:

@@ -2,8 +2,7 @@
 title: "Flipped-LMS Decision Flowchart and Example"
 slug: flipped-lms-decision-flow-and-example
 date: 10/13/2015
-comments: false
-continue_link: false
+comments: true
 taxonomy:
     tags: [flipped-LMS, flowchart, example, diagram, GravCMS]
 metadata:

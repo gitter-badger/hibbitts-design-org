@@ -2,8 +2,7 @@
 title: "Welcome"
 slug: welcome
 date: 10/01/2015
-comments: false
-continue_link: false
+comments: true
 taxonomy:
     tags: [flipped-LMS, GravCMS]
 metadata:

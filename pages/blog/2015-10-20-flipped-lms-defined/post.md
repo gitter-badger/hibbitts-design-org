@@ -1,6 +1,7 @@
 ---
 title: 'Flipped-LMS (Re)Defined'
 date: '20-10-2015 00:00'
+comments: true
 metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
@@ -11,8 +12,6 @@ taxonomy:
     tags:
         - flipped-LMS
         - featured
-comments: false
-continue_link: false
 ---
 
 A flipped-LMS is where an open platform, in the control of instructors and students, is an alternative front-end to the institutional LMS.
