@@ -15,7 +15,7 @@
 	{% block content %}
 
         {% for post in collection %}
-						{% if "featured" in post.taxonomy['tags'] %}
+						{% if "Featured" in post.taxonomy['tags'] %}
 							<article class="hentry">
 	              <header>
 	                <div class="entry-meta">
@@ -41,7 +41,7 @@
         {% endfor %}
 
 				{% for post in collection %}
-						{% if "featured" not in post.taxonomy['tags'] %}
+						{% if "Featured" not in post.taxonomy['tags'] %}
 							<article class="hentry">
 								<header>
 									<div class="entry-meta">
