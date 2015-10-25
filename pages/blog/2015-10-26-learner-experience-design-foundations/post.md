@@ -11,6 +11,7 @@ slug: learner-experience-design-foundations
 taxonomy:
     tags:
         - ExperienceDesign
+        - Diagram
 comments: false
 continue_link: false
 ---
