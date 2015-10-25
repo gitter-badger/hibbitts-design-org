@@ -5,8 +5,8 @@ date: 10/13/2015
 comments: true
 taxonomy:
     tags:
-        - flipped-LMS
-        - diagram
+        - Flipped-LMS
+        - Diagram
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

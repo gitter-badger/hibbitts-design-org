@@ -10,8 +10,8 @@ metadata:
 slug: redefining-a-flipped-lms-approach
 taxonomy:
     tags:
-        - flipped-LMS
-        - featured
+        - Flipped-LMS
+        - Featured
 ---
 
 A flipped-LMS is where an open platform, in the control of instructors and students, is an alternative front-end to the institutional LMS.

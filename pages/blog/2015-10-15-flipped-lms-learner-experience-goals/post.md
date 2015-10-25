@@ -5,8 +5,8 @@ date: 10/15/2015
 comments: true
 taxonomy:
     tags:
-        - flipped-LMS
-        - experiencedesign
+        - Flipped-LMS
+        - ExperienceDesign
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

@@ -5,7 +5,7 @@ date: 10/01/2015
 comments: true
 taxonomy:
     tags:
-        - flipped-LMS
+        - Flipped-LMS
         - GitHub
         - GravCMS
 metadata:

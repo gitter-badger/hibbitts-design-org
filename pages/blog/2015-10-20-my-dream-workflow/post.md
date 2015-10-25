@@ -11,7 +11,7 @@ metadata:
 slug: my-new-dream-workflow-as-an-instructor
 taxonomy:
     tags:
-        - flipped-LMS
+        - Flipped-LMS
         - GitHub
         - GravCMS
         - CanvasLMS

@@ -11,11 +11,11 @@ metadata:
 slug: sfu-demofest2015-presentation
 taxonomy:
     tags:
-        - flipped-LMS
+        - Flipped-LMS
         - GitHub
         - GravCMS
         - CanvasLMS
-        - presentation
+        - Presentation
 ---
 
 I am excited to be presenting my approach of a Flipped-LMS at Simon Fraser University's [DEMOFest 2015](https://www.sfu.ca/tlc/programming/special/demofest-2015.html) on November 24th.

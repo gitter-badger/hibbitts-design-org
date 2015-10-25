@@ -1,5 +1,5 @@
 ---
-title: 'Learner Experience Design Foundations'
+title: 'Learner Experience Design'
 date: '26-10-2015 00:00'
 metadata:
     'twitter:card': summary
@@ -10,7 +10,7 @@ metadata:
 slug: learner-experience-design-foundations
 taxonomy:
     tags:
-        - experiencedesign
+        - ExperienceDesign
 comments: false
 continue_link: false
 ---
