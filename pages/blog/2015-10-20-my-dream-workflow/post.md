@@ -12,8 +12,9 @@ slug: my-new-dream-workflow-as-an-instructor
 taxonomy:
     tags:
         - flipped-LMS
+        - GitHub
         - GravCMS
-        - example
+        - CanvasLMS
 ---
 
 In my earlier LinkedIn article [Online Course Companions: Workflow Requirements for (us) Instructors](https://www.linkedin.com/pulse/online-course-companions-some-requirements-us-paul-hibbitts) I outlined the workflow requirements of providing the online course companion ([http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com)) for my students this upcoming term at [Simon Fraser University](http://www.sfu.ca/). In this article I will describe the details of my current workflow, which meets all of the previously identified requirements.

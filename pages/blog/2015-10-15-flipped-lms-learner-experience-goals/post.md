@@ -4,7 +4,9 @@ slug: positive-learner-experience-goals-critical-for-a-flipped-LMS-approach
 date: 10/15/2015
 comments: true
 taxonomy:
-    tags: [flipped-LMS, principles]
+    tags:
+        - flipped-LMS
+        - experiencedesign
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

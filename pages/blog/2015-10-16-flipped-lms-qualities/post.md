@@ -4,7 +4,9 @@ slug: desired-qualities-of-a-flipped-lms-approach
 date: 10/16/2015
 comments: true
 taxonomy:
-    tags: [flipped-LMS, principles]
+    tags:
+        - flipped-LMS
+        - experiencedesign
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

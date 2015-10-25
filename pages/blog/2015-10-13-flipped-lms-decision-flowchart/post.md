@@ -4,7 +4,9 @@ slug: flipped-lms-decision-flow-and-example
 date: 10/13/2015
 comments: true
 taxonomy:
-    tags: [flipped-LMS, flowchart, example, diagram, GravCMS]
+    tags:
+        - flipped-LMS
+        - diagram
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

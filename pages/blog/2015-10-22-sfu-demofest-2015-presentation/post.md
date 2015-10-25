@@ -12,6 +12,7 @@ slug: sfu-demofest2015-presentation
 taxonomy:
     tags:
         - flipped-LMS
+        - GitHub
         - GravCMS
         - CanvasLMS
         - presentation
