@@ -11,7 +11,7 @@ content:
     limit: 10
     pagination: true
 feed:
-    description: 'Flipped-LMS, GitHub in Education, and the Fabulous Grav CMS'
+    description: 'Flipped-LMS, GitHub Collaboration, Grav CMS & UX Design'
     limit: 10
 pagination: true
 image:
@@ -22,6 +22,6 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : HibbittsDesign.org
-    'twitter:description' : '[Open Source + Education] Thoughts, Code, and Explorations'
+    'twitter:description' : '[Open Source + Education] Explorations: Flipped-LMS, GitHub Collaboration, Grav CMS & UX Design'
     'twitter:image' : http://hibbittsdesign.org/user/pages/blog/iStock_000019985197Medium.jpg
 ---
