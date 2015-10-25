@@ -1,5 +1,5 @@
 ---
-title: 'Flipped-LMS, GitHub Collaboration, Grav CMS & UX Design'
+title: 'Flipped-LMS, GitHub Collaboration, Grav CMS & UX/LX Design'
 sitemap:
     changefreq: monthly
     priority: 1.03
@@ -11,7 +11,7 @@ content:
     limit: 10
     pagination: true
 feed:
-    description: 'Flipped-LMS, GitHub Collaboration, Grav CMS & UX Design'
+    description: 'Flipped-LMS, GitHub Collaboration, Grav CMS & UX/LX Design'
     limit: 10
 pagination: true
 image:
@@ -22,6 +22,6 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : HibbittsDesign.org
-    'twitter:description' : '[Open Source + Education] Explorations: Flipped-LMS, GitHub Collaboration, Grav CMS & UX Design'
+    'twitter:description' : '[Open Source + Education] Explorations: Flipped-LMS, GitHub Collaboration, Grav CMS & UX/LX Design'
     'twitter:image' : http://hibbittsdesign.org/user/pages/blog/iStock_000019985197Medium.jpg
 ---
