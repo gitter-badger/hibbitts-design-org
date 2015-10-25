@@ -1,5 +1,5 @@
 ---
-title: '[Open Source + Education] Thoughts, Code, and Explorations'
+title: 'Flipped-LMS, GitHub, Grav CMS, & Experience Design'
 sitemap:
     changefreq: monthly
     priority: 1.03
@@ -11,7 +11,7 @@ content:
     limit: 10
     pagination: true
 feed:
-    description: 'Sample Blog Description'
+    description: 'Flipped-LMS, GitHub in Education, and the Fabulous Grav CMS'
     limit: 10
 pagination: true
 image:
