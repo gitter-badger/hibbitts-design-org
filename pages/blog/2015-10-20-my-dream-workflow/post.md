@@ -1,14 +1,14 @@
 ---
-title: 'My New (Dream) Workflow as an Instructor'
+title: 'My Dream Workflow as an Instructor'
 date: '08-09-2015 00:00'
 comments: true
 metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
-    'twitter:title': 'My New (Dream) Workflow as an Instructor'
+    'twitter:title': 'My Dream Workflow as an Instructor'
     'twitter:description': 'In this article I will describe the details of my current workflow, which meets all of the previously identified requirements.'
     'twitter:image': 'http://hibbittsdesign.org/user/pages/blog/2015-10-20-my-workflow/github-desktop.png'
-slug: my-new-dream-workflow-as-an-instructor
+slug: my-dream-workflow-as-an-instructor
 taxonomy:
     tags:
         - Flipped-LMS
@@ -37,10 +37,9 @@ The one element that makes everything possible is the open source CMS [Grav](htt
 * [Deploy](http://deployhq.com/) Account
 
 **Workflow (Mac or Windows)**
-
-Edit one or more course companion files in a text editor (e.g. Atom or any other of your choice)
-Preview locally within a Browser using MAMP (optional step)
-Review and commit changes to course companion GitHub repository via GitHub Desktop
+* Edit one or more course companion files in a text editor (e.g. Atom or any other of your choice)
+* Preview locally within a Browser using MAMP (optional step)
+* Review and commit changes to course companion GitHub repository via GitHub Desktop
 
 ![Atom Text Editor](../2015-10-20-my-dream-workflow/atom-editor.png)
 _Figure 1. Adding a new article link in the Atom text editor (modular content that will be displayed in multiple areas of the site)._
