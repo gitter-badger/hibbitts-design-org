@@ -1,6 +1,6 @@
 ---
-title: "Positive Learner Experience Goals for a Flipped-LMS"
-slug: positive-learner-experience-goals-critical-for-a-flipped-LMS-approach
+title: "Learner Experience Goals for a Flipped-LMS"
+slug: learner-experience-goals-critical-for-a-flipped-LMS-approach
 date: 10/15/2015
 comments: true
 taxonomy:
@@ -14,10 +14,12 @@ metadata:
     'twitter:description' : A recommended set of learner experience goals for a flipped-LMS.
 ---
 
-Positive learner experience goals for a flipped-LMS:
+Learner experience goals for a flipped-LMS:
 * Convenient
 * Engaging
 * Frictionless
 * Organized
 * Relevant
 * Enjoyable
+
+_As for instructor experience goals, that's something I am still working on..._
