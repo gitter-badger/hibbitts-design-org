@@ -1,5 +1,6 @@
 ---
 title: 'SFU DEMOFest 2015 Presentation'
+slug: sfu-demofest2015-presentation
 date: '22-10-2015 00:00'
 comments: true
 metadata:
@@ -8,7 +9,6 @@ metadata:
     'twitter:title': 'DEMOFest 2015 Presentation on Flipped-LMS'
     'twitter:description': 'Description of my DEMOFest 2015 session.'
     'twitter:image': 'http://hibbittsdesign.org/user/pages/blog/2015-10-22-sfu-demofest-2015-presentation/cmpt-363-course-companion-home.png'
-slug: sfu-demofest2015-presentation
 taxonomy:
     tags:
         - Flipped-LMS

@@ -1,5 +1,6 @@
 ---
 title: 'Flipped-LMS (Re)Defined'
+slug: redefining-a-flipped-lms-approach
 date: '20-10-2015 00:00'
 comments: true
 metadata:
@@ -7,7 +8,6 @@ metadata:
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Flipped-LMS (Re)Defined'
     'twitter:description': 'My personal definition of a flipped-LMS approach.'
-slug: redefining-a-flipped-lms-approach
 taxonomy:
     tags:
         - Flipped-LMS

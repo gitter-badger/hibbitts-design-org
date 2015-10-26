@@ -1,5 +1,6 @@
 ---
 title: 'My Dream Workflow as an Instructor'
+slug: my-dream-workflow-as-an-instructor
 date: '08-09-2015 00:00'
 comments: true
 metadata:
@@ -8,7 +9,6 @@ metadata:
     'twitter:title': 'My Dream Workflow as an Instructor'
     'twitter:description': 'In this article I will describe the details of my current workflow, which meets all of the previously identified requirements.'
     'twitter:image': 'http://hibbittsdesign.org/user/pages/blog/2015-10-20-my-workflow/github-desktop.png'
-slug: my-dream-workflow-as-an-instructor
 taxonomy:
     tags:
         - Flipped-LMS
