@@ -20,12 +20,10 @@ taxonomy:
 
 I am excited to be presenting my approach of a Flipped-LMS at Simon Fraser University's [DEMOFest 2015](https://www.sfu.ca/tlc/programming/special/demofest-2015.html) on November 24th.
 
-Here is the draft description of my session:
+Here is the second-draft description of my session:
 
 **Flipping the LMS: Benefits and Lessons Learned of Using an Alternative Front-end to Canvas**
 
-A flipped-LMS is where an open platform, in the control of
-instructors and students, is an alternative front-end to the
-institutional LMS.
+Let's be honest, as web-savvy course facilitators we want to deliver the best possible online learner experience but at the same time make our own experience a better one too. LMS's, such as Canvas, provide some great pedagogical elements but too often fail when it comes to content management tasks, multi-device delivery, and providing a truly open platform. The solution? Flip the LMS!
 
-With this approach, instructors can immediately start to create better experiences for students and themselves. Deep-links to any needed LMS elements (i.e. assignment submissions, discussion, grades, etc.) with flow-through for user authentication is the only back-end requirement. A flipped-LMS can also support a student-centered learning ecology.
+A flipped-LMS is an approach where an open platform, chosen by a instructor, provides an alternative front-end to their institutional LMS. The desired outcome? In this presentation Paul will demonstrate how this approach can produce significant improvements to both the student and instructor experience. Tools highlighted will include Canvas (naturally), the open source flat-file CMS Grav, and GitHub desktop.
