@@ -28,20 +28,21 @@ Let's be honest, as course facilitators we want to deliver the best possible onl
 
 A flipped-LMS is an approach where an open platform, chosen by an instructor, provides an alternative (and preferably collaborative) front-end to their institutional LMS. In this presentation Paul will demonstrate how this approach can produce significant improvements to both the student and instructor experience. Elements from Paul's personal toolkit to be highlighted will include [Canvas](http://www.canvaslms.com/) (naturally), the open source flat-file CMS [Grav](http://getgrav.org/), and [GitHub Desktop](https://desktop.github.com/).
 
-So, maybe you are wondering what type of skills are required for this approach? Here is a breakdown (in-progress):
+So, perhaps you are wondering what type of skills are required for this approach? Here is a breakdown:
 
-*Basic User Skills (essentials)*
+*Basic User Skills (essentials to use an existing theme)*
 * Text file editing
 * Creating folders on the desktop
 * Uploading files (i.e. via FTP)
 * Unzipping compressed files (for installation)
 
-*Intermediate User Skills (nice to have)*
+*Intermediate User Skills (nice to have skills to make your workflow even faster)*
 * GitHub account
 * GitHub Desktop app
 * GitHub -> FTP server service (i.e. Deploy)
 
-*Power User Skills (not required)*
+*Power User Skills (required to customize a theme)*
 * YAML format editing
 * Twig template scripting
+* Cascading Style Sheets (CSS) editing
 * Command line usage
