@@ -20,7 +20,7 @@ taxonomy:
 
 I am excited to be presenting my approach of a Flipped-LMS at Simon Fraser University's [DEMOFest 2015](https://www.sfu.ca/tlc/programming/special/demofest-2015.html) on November 24th.
 
-Here is the second-draft description of my session:
+Here is the second draft description of my session:
 
 **Flipping the LMS: Benefits and Lessons Learned of Using an Alternative Front-end to Canvas**
 
