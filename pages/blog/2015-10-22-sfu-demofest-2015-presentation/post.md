@@ -40,9 +40,9 @@ So, perhaps you are wondering what type of skills are required for this approach
 * GitHub account
 * GitHub Desktop app
 * GitHub -> FTP server service (i.e. Deploy)
-* Command line usage
 
 *Power User Skills (only required to customize a theme)*
 * YAML format editing
 * Twig template scripting
 * Cascading Style Sheets (CSS) editing
+* Command line usage
