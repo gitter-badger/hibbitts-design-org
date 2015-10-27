@@ -36,7 +36,7 @@ So, perhaps you are wondering what type of skills are required for this approach
 * Uploading files (i.e. via FTP)
 * Unzipping compressed files (for installation)
 
-*Intermediate User Skills (nice to have skills to make your workflow even faster)*
+*Intermediate User Skills (supports student collaboration and an even faster workflow)*
 * GitHub account
 * GitHub Desktop app
 * GitHub -> FTP server service (i.e. Deploy)
