@@ -24,6 +24,6 @@ Here is the second draft description of my session:
 
 **Flipping the LMS: Benefits and Lessons Learned of Using an Alternative Front-end to Canvas**
 
-Let's be honest, as web-savvy course facilitators we want to deliver the best possible online learner experience but at the same time make our own experience a better one too. LMS's, such as Canvas, provide some great pedagogical elements but too often fail when it comes to content management tasks, multi-device delivery, and providing a truly open platform. The solution? Flip the LMS!
+Let's be honest, as web-savvy course facilitators we want to deliver the best possible online learner experience but at the same time make our own experience a better one too. LMS's, such as Canvas, provide some great pedagogical elements but often fall short when it comes to streamlined content management, multi-device delivery, and providing a truly open platform. The solution? Flip the LMS!
 
 A flipped-LMS is an approach where an open platform, chosen by a instructor, provides an alternative front-end to their institutional LMS. The desired outcome? In this presentation Paul will demonstrate how this approach can produce significant improvements to both the student and instructor experience. Tools highlighted will include Canvas (naturally), the open source flat-file CMS Grav, and GitHub desktop.
