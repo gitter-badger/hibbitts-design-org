@@ -30,9 +30,9 @@ A flipped-LMS is an approach where an open platform, chosen by an instructor, pr
 
 So, perhaps you are wondering what type of skills are required for this approach? Here is a breakdown:
 
-*Basic User Skills (essentials to use an existing theme)*
+*Essential User Skills (essentials to use an existing theme)*
 * Text file editing
-* Markdown or HTML formatting
+* Markdown or basic HTML formatting
 * Creating folders on the desktop
 * Uploading files (i.e. via FTP)
 * Unzipping compressed files (for installation)
