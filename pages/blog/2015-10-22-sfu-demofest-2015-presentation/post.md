@@ -33,7 +33,7 @@ So, perhaps you are wondering what type of skills are required for this approach
 
 *Basic User Skills, Level I (adding content to an existing theme)*
 * Text file editing
-* Markdown or basic HTML formatting
+* Markdown or simple HTML formatting
 * Creating folders on the desktop
 * Uploading files (i.e. via FTP)
 * Unzipping compressed files (for installation
@@ -43,10 +43,10 @@ So, perhaps you are wondering what type of skills are required for this approach
 * GitHub Desktop app
 * GitHub -> FTP server service (i.e. Deploy)
 
-*Intermediate User Skills (supports student collaboration and an even faster workflow)*
-* YAML (Yet Another Multicolumn Layout) editing
-* Command line usage (e.g. copy and paste commands)
+*Intermediate User Skills (access additional abilities of Grav)*
+* Command line usage (e.g. copy and pasting of commands)
 
-*Power User Skills (only required to customize a theme)*
+*Power User Skills (only required to fully customize a theme)*
 * Twig template scripting
+* YAML (Yet Another Multicolumn Layout) construction
 * Cascading Style Sheets (CSS) editing
