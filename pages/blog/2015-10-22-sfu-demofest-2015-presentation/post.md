@@ -47,5 +47,5 @@ So, perhaps you are wondering what type of skills are required for this approach
 
 *Power User Skills (only required to fully customize a theme)*
 * Twig template  (a much easier method of templating than PHP)
-* YAML (Yet Another Multicolumn Layout) for custom field creation
+* YAML (Yet Another Multicolumn Layout) for custom field creation (no additional add-ons required)
 * Cascading Style Sheets (CSS) editing
