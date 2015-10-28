@@ -26,7 +26,7 @@ Here is the second draft description of my session:
 
 Let's be honest, as course facilitators we want to deliver the best possible online learner experience but at the same time make our own experience as convenient as possible. LMS's, such as Canvas, provide some great pedagogical elements but often fall short when it comes to such things as streamlined course updates, content reuse, easy customization, and providing a truly open platform. The solution? Flip the LMS!
 
-A flipped-LMS is an approach where an open platform, chosen by an instructor, provides an alternative (and preferably collaborative) front-end to their institutional LMS. While some instructors have taken this approach in the past with platforms like WordPress, we now have a new generation of platforms and systems available to utilize. In this presentation Paul will demonstrate how this approach can produce significant improvements to both the student and instructor experience. Elements from Paul's personal toolkit to be highlighted will include [Canvas](http://www.canvaslms.com/) (naturally), the open source flat-file CMS [Grav](http://getgrav.org/), and [GitHub Desktop](https://desktop.github.com/).
+A flipped-LMS is an approach where an open platform, chosen by an instructor, provides an alternative (and preferably collaborative) front-end to their institutional LMS. While some instructors have taken this approach in the past with platforms like WordPress, we now have a new generation of platforms and systems available to utilize. In this presentation Paul will demonstrate how this approach can produce significant improvements to both the student and instructor experience. Elements from Paul's personal toolkit to be highlighted will include [Canvas](http://www.canvaslms.com/) (naturally), the open source no-database CMS [Grav](http://getgrav.org/), and [GitHub Desktop](https://desktop.github.com/).
 
 So, perhaps you are wondering what type of skills are required for this approach? Here is a breakdown:
 
@@ -46,6 +46,6 @@ So, perhaps you are wondering what type of skills are required for this approach
 * Command line usage (e.g. copy and pasting of commands)
 
 *Power User Skills (only required to fully customize a theme)*
-* Twig template scripting
-* YAML (Yet Another Multicolumn Layout) construction
+* Twig template  (a much easier method of templating than PHP)
+* YAML (Yet Another Multicolumn Layout) for custom field creation
 * Cascading Style Sheets (CSS) editing
