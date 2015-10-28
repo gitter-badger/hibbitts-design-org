@@ -13,7 +13,7 @@ taxonomy:
         - ExperienceDesign
         - Diagram
 comments: false
-continue_link: false
+published: false
 ---
 
 Learner experience design is the combination of user experience (UX) design, educational design, and technology development. All three domains are essential.
