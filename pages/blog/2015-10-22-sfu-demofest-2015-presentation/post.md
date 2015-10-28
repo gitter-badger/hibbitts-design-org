@@ -31,20 +31,22 @@ A flipped-LMS is an approach where an open platform, chosen by an instructor, pr
 
 So, perhaps you are wondering what type of skills are required for this approach? Here is a breakdown:
 
-*Essential User Skills (adding content to an existing theme)*
+*Basic User Skills, Level I (adding content to an existing theme)*
 * Text file editing
 * Markdown or basic HTML formatting
 * Creating folders on the desktop
 * Uploading files (i.e. via FTP)
-* Unzipping compressed files (for installation)
+* Unzipping compressed files (for installation
 
-*Intermediate User Skills (supports student collaboration and an even faster workflow)*
+*Basic User Skills, Level II (supports student collaboration and an even faster workflow for facilitators)*
 * GitHub account
 * GitHub Desktop app
 * GitHub -> FTP server service (i.e. Deploy)
 
+*Intermediate User Skills (supports student collaboration and an even faster workflow)*
+* YAML (Yet Another Multicolumn Layout) editing
+* Command line usage (e.g. copy and paste commands)
+
 *Power User Skills (only required to customize a theme)*
-* YAML (Yet Another Multicolumn Layout) formatting
 * Twig template scripting
 * Cascading Style Sheets (CSS) editing
-* Command line usage
