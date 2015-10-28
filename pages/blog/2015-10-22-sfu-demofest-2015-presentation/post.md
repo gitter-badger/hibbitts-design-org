@@ -32,6 +32,7 @@ So, perhaps you are wondering what type of skills are required for this approach
 
 *Basic User Skills (essentials to use an existing theme)*
 * Text file editing
+* Markdown or HTML formatting
 * Creating folders on the desktop
 * Uploading files (i.e. via FTP)
 * Unzipping compressed files (for installation)
@@ -42,7 +43,7 @@ So, perhaps you are wondering what type of skills are required for this approach
 * GitHub -> FTP server service (i.e. Deploy)
 
 *Power User Skills (only required to customize a theme)*
-* YAML format editing
+* YAML (Yet Another Multicolumn Layout) formatting
 * Twig template scripting
 * Cascading Style Sheets (CSS) editing
 * Command line usage
