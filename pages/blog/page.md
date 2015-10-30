@@ -1,5 +1,5 @@
 ---
-title: 'Flipped-LMS, GitHub Collaboration, Grav CMS & UX/LX Design'
+title: 'Experience Design / Flipped-LMS / GitHub Collab / Grav CMS'
 sitemap:
     changefreq: monthly
     priority: 1.03
