@@ -7,7 +7,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Alternative to the Term "Learner Experience Design"?'
-    'twitter:description': 'A possible alternative to the term "Learner Experience Design"'
+    'twitter:description': 'A possible alternative to the term "Learner Experience Design" is explored'
 taxonomy:
     tags:
         - ExperienceDesign
