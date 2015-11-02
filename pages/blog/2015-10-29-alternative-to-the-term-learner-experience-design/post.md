@@ -1,13 +1,13 @@
 ---
-title: 'Alternative to the Term "Learner Experience Design"?'
+title: 'Alternative to the term Learner Experience Design?'
 slug: alternative-to-the-term-learner-experience-design
 date: '29-10-2015 00:00'
 comments: true
 metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
-    'twitter:title': 'Alternative to the Term "Learner Experience Design"?'
-    'twitter:description': 'A possible alternative to the term "Learner Experience Design" is explored'
+    'twitter:title': 'Alternative to the term Learner Experience Design?'
+    'twitter:description': 'A possible alternative to the term Learner Experience Design is explored'
 taxonomy:
     tags:
         - ExperienceDesign
