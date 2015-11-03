@@ -17,4 +17,4 @@ While I've been using the term learner experience (LX) design myself for several
 
 Too often people think of learner experience design separate from, or a subset of, user experience design, but this is misleading and certainly not what I have found the situation to be. Learner experience design also assumes the audience in question are just learners, which is not the case either (they are people with goals to accomplish).
 
-So what's an alternative? Perhaps "experience design for [domain]". From my perspective it's all about embedding the full-stack of UX into any domain in partnership with all the other essential aspects (skills, knowledge, challenges, etc.) of that same domain.
+So what's an alternative? Perhaps "experience design for [domain]". From my perspective it's all about embedding the full-stack of UX into any domain in partnership with all the other essential aspects (skills, knowledge, challenges, etc.) of that particular domain.
