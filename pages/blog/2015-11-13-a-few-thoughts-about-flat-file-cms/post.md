@@ -16,7 +16,7 @@ metadata:
     'twitter:description' : A collection of a few recent tweets about flat-file CMS's.
 ---
 
-_What does the term 'flat-file CMS' mean? In a nutshell, content is stored as individual text files rather than in a database._
+_But first, what does the term 'flat-file CMS' mean? In a nutshell, content is stored as individual text files rather than in a database._
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">The fact that a flat-file CMS uses files vs. database is secondary: the game changer is the ECOSYSTEM available, i.e. GitHub, Markdown, etc.</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/665245264379187201">November 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
