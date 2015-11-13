@@ -1,9 +1,9 @@
 ---
 title: "Welcome"
 slug: welcome
-date: 10/01/2015
+date: 09/24/2015
 comments: true
-published: false
+published: true
 taxonomy:
     tags:
         - Flipped-LMS
