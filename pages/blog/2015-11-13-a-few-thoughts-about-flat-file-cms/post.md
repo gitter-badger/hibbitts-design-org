@@ -38,3 +38,6 @@ _What does the term 'flat-file CMS' mean? In a nutshell, content is stored in ex
 <br>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">A flat-file CMS + GitHub = collaborative editing of content &amp; behavior (code) for dynamic learning platforms <a href="https://twitter.com/hashtag/opened?src=hash">#opened</a> <a href="http://t.co/PGskqTpZtx">pic.twitter.com/PGskqTpZtx</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/639142569918640128">September 2, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">CMS workflow nirvana? <a href="https://twitter.com/getgrav">@getgrav</a> (flat-file CMS) ➨ GitHub (version control &amp; collab editing) ➨ <a href="https://twitter.com/deployhq">@deployhq</a> (auto server deployments) ➨ Web host</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/636230420086984705">August 25, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
