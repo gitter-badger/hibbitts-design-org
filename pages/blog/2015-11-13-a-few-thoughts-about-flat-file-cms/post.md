@@ -1,5 +1,5 @@
 ---
-title: "A Few Thoughts About Flat-file CMS's"
+title: "A Few Thoughts About... Flat-file CMS's"
 slug: a-few-thoughts-about-flat-file-cms
 date: 11/13/2015
 comments: true
