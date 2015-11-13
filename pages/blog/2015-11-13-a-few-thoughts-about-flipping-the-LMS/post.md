@@ -6,7 +6,7 @@ comments: true
 published: true
 taxonomy:
     tags:
-        - flipped-LMS
+        - Flipped-LMS
         - GitHub
         - GravCMS
 metadata:
@@ -34,6 +34,9 @@ _A flipped-LMS is where an open platform, in the control of instructors and stud
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">The purpose of a flipped-LMS approach should be to not only (significantly) improve the learner experience but ALSO that of the instructor.</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/638836696352579588">September 1, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">My flipped-LMS approach for this term will be using the open source, flat-file (no DB), multi-device &amp; modular <a href="https://twitter.com/getgrav">@getgrav</a> CMS + <a href="https://twitter.com/hashtag/CanvasLMS?src=hash">#CanvasLMS</a>.</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/638831849972723712">September 1, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">My flipped-LMS approach for this term will be using the open source, flat-file (no DB), multi-device &amp; modular <a href="https://twitter.com/getgrav">@getgrav</a> CMS + <a href="https://twitter.com/hashtag/CanvasLMS?src=hash">#CanvasLMS</a>.</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/638831849972723712">September 1, 2015</a></blockquote>
