@@ -16,8 +16,11 @@ metadata:
     'twitter:description' : A collection of a few initial thoughts about flipping the LMS.
 ---
 
-_But first, what does the term 'flipped-LMS' mean? A flipped-LMS is where an open platform, in the control of instructors and students, is an alternative (and ideally collaborative) front-end to the institutional LMS.._
+_A flipped-LMS is where an open platform, in the control of instructors and students, is an alternative (and ideally collaborative) front-end to the institutional LMS.._
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">A flipped-LMS approach means no student data needs to be stored in the front-end, so tools like DropBox can be used without FIPPA concerns.👏</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/650048923172605952">October 2, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I&#39;ve been doing more research on the term &quot;Flipped-LMS&quot; and have come across some helpful articles, here is another: <a href="https://t.co/mNGXUmHPar">https://t.co/mNGXUmHPar</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/649988207753367553">October 2, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
