@@ -13,7 +13,7 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few Thoughts About Flat-file CMS's
-    'twitter:description' : A collection of a few recent tweets about flat-file CMS's.
+    'twitter:description' : A collection of a few recent thoughts about flat-file CMS's.
 ---
 
 _But first, what does the term 'flat-file CMS' mean? In a nutshell, content is stored as individual text files rather than in a database._
