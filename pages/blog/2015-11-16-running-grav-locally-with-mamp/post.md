@@ -25,7 +25,7 @@ One of the (many) great things about [Grav](http://getgrav.org) is that no datab
 5. Press the MAMP button 'Start Servers' (see Figure 1)
 6. Enter the URL http://localhost:8888 and press the RETURN key
 7. In your Browser you should now see the htdocs directory listing - press on the displayed Grav folder name
-8. Done!
+8. You're done!
 
 ![MAMP Welcome Screen](../2015-11-16-running-grav-locally-with-mamp/MAMP.png)  
 _Figure 1. MAMP startup screen._
@@ -36,6 +36,7 @@ If you would prefer to only need to enter 'http://localhost' in your Browser to 
 2. Press the MAMP 'Preferences' button (see Figure 2)
 3. Press the 'Ports' tab in the 'Preferences' dialog
 4. Change the value in the 'Appache Port' field to '80' (no quotes)
+5. You're done!
 
 ![MAMP Preferences Dialog](../2015-11-16-running-grav-locally-with-mamp/MAMP-preferences.png)  
 _Figure 2. MAMP Preferences dialog._
