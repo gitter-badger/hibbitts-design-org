@@ -23,11 +23,10 @@ In this brief article we will look at how to use [MAMP](https://www.mamp.info/en
 1. Download MAMP (https://www.mamp.info/en/downloads/) and install the application
 2. Download Grav (http://getgrav.org/downloads/) and extract downloaded archive file
 3. Copy the entire extracted Grav folder to '/Applications/MAMP/htdocs/' on a Mac or 'C:/MAMP/htdocs' on a Windows PC
-4. Launch the MAMP application
-5. Press the MAMP button 'Start Servers' (see Figure 1)
-6. Launch your Web Browser, enter the URL http://localhost:8888 and then press the RETURN key
-7. In your Web Browser you should now see the htdocs directory listing - press on the displayed Grav folder name
-8. You're done!
+4. Launch the MAMP application and press the button 'Start Servers' (see Figure 1)
+5. Launch your Web Browser, enter the URL http://localhost:8888 and then press the RETURN key
+6. In your Web Browser you should now see the htdocs directory listing - press on the displayed Grav folder name
+7. You're done!
 
 ![MAMP Welcome Screen](../2015-11-16-running-grav-locally-with-mamp/MAMP.png)  
 _Figure 1. MAMP startup screen._
