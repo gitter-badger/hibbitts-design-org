@@ -38,3 +38,5 @@ If you would prefer to only need to enter 'http://localhost' in your Browser to 
 
 ![MAMP Preferences Dialog](../2015-11-16-running-grav-locally-with-mamp/MAMP-preferences.png)  
 _Figure 2. MAMP Preferences dialog._
+
+Remember, once you've got your Grav site working as you want locally all you need to do is copy/FTP the files over to your server! No database (worries) required.
