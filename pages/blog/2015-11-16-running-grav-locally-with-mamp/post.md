@@ -27,7 +27,7 @@ In this brief article we will look at how to use [MAMP](https://www.mamp.info/en
 4. Launch the MAMP application and press the button 'Start Servers' (see Figure 1)
 5. Launch your Web Browser and enter the URL http://localhost:8888 and then press the RETURN key
 
-In your Web Browser you should now see the MAMP htdocs directory listing - press on the displayed Grav folder name to locally view your Grav site
+In your Web Browser you should now see the MAMP htdocs directory listing - press on the displayed Grav folder name to view your local Grav site
 
 ![MAMP Welcome Screen](../2015-11-16-running-grav-locally-with-mamp/MAMP.png)  
 _Figure 1. MAMP startup screen._
