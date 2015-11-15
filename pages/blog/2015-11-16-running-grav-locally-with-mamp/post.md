@@ -31,7 +31,7 @@ In this brief article we will look at how to use [MAMP](https://www.mamp.info/en
 ![MAMP Welcome Screen](../2015-11-16-running-grav-locally-with-mamp/MAMP.png)  
 _Figure 1. MAMP startup screen._
 
-Remember, once you've got your Grav site working as you want locally all you need to do is copy/FTP the files over to your server! No database (worries) required.  
+Remember, once you've got your Grav site working as you want locally all you need to do is copy/FTP the files over to your server! No database (worries) required   
 
 **Additional Setup Options**
 
