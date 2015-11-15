@@ -46,4 +46,4 @@ If you would prefer to only need to enter 'http://localhost' in your Web Browser
 ![MAMP Preferences Dialog](../2015-11-16-running-grav-locally-with-mamp/MAMP-preferences.png)  
 _Figure 2. MAMP Preferences dialog._
 
-Once you start using this setup for your Grav development you might also want to change the location of the document directory used by MAMP. You can find the setting to change the MAMP  directory in the 'Web Server' tab of the 'Preferences' dialog.
+Once you start using this setup for your Grav development you might also want to change the location of the document directory used by MAMP, for example when using GitHub Desktop or ensuring your files are routinely backed up. You can find the setting to change the MAMP  directory in the 'Web Server' tab of the 'Preferences' dialog.
