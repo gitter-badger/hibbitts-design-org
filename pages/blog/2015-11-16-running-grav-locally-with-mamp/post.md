@@ -39,7 +39,7 @@ Remember, once you've got your Grav site working as you want locally all you nee
 If you would prefer to only need to enter 'http://localhost' in your Web Browser to access your MAMP htdocs directory listing, then do the following:
 
 1. Launch the MAMP application. If MAMP is already running, press the 'Stop Servers' button
-2. Press the MAMP 'Preferences' button
+2. Press the MAMP 'Preferences' button (see Figure 1)
 3. Press the 'Ports' tab in the 'Preferences' dialog (see Figure 2)
 4. Change the value in the 'Appache Port' field to '80' (no quotes)
 5. Press the 'OK' button  
