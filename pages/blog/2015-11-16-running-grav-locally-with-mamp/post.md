@@ -31,6 +31,8 @@ In this brief article we will look at how to use [MAMP](https://www.mamp.info/en
 ![MAMP Welcome Screen](../2015-11-16-running-grav-locally-with-mamp/MAMP.png)  
 _Figure 1. MAMP startup screen._
 
+Remember, once you've got your Grav site working as you want locally all you need to do is copy/FTP the files over to your server! No database (worries) required.  
+
 **Additional setup options**
 
 If you would prefer to only need to enter 'http://localhost' in your Web Browser to access your MAMP htdocs directory listing, then do the following:
@@ -43,7 +45,5 @@ If you would prefer to only need to enter 'http://localhost' in your Web Browser
 
 ![MAMP Preferences Dialog](../2015-11-16-running-grav-locally-with-mamp/MAMP-preferences.png)  
 _Figure 2. MAMP Preferences dialog._
-
-Remember, once you've got your Grav site working as you want locally all you need to do is copy/FTP the files over to your server! No database (worries) required.
 
 Once you start using this setup for your Grav development you might also want to change the location of the document directory used by MAMP. You can find the setting to change the MAMP  directory in the 'Web Server' tab of the 'Preferences' dialog.
