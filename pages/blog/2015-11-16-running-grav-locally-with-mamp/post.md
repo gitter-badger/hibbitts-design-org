@@ -11,6 +11,7 @@ metadata:
 taxonomy:
     tags:
         - Grav
+        - MAMP
 ---
 
 One of the (many) great things about [Grav](http://getgrav.org) is that no database setup is required, which makes running a local copy of Grav on your computer for testing purposes even easier. In this blog post, we will look at how to use [MAMP](https://www.mamp.info/en/), a tool to safely run PHP server on your computer, to locally run Grav on your Mac or Windows PC.
