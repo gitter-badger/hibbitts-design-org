@@ -23,7 +23,7 @@ One of the (many) great things about [Grav](http://getgrav.org) is that no datab
 4. Launch the MAMP application
 5. Press the MAMP button 'Start Servers' (see Figure 1)
 6. Enter the URL http://localhost and press the RETURN key
-7. In your Browser click on Grav folder name
+7. In your Browser press on displayed Grav folder name
 8. Done!
 
 ![MAMP Welcome Screen](../2015-11-16-running-grav-locally-with-mamp/MAMP.png)
