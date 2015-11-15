@@ -7,7 +7,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Running Grav Locally with MAMP'
-    'twitter:description': 'Step-by-step instructions to run Grav on your Mac or Windows PC.'
+    'twitter:description': 'Step-by-step instructions to run Grav locally on your Mac or Windows PC.'
     'twitter:image' : http://hibbittsdesign.org/user/pages/blog/2015-11-16-running-grav-locally-with-mamp/MAMP.png
 taxonomy:
     tags:
