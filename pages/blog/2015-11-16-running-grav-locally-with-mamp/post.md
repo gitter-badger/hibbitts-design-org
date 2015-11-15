@@ -12,6 +12,7 @@ taxonomy:
     tags:
         - Grav
         - MAMP
+        - GitHub
 ---
 
 One of the (many) great things about [Grav](http://getgrav.org) is that no database setup is required, which makes running a local copy of Grav on your computer for development or testing purposes a straightforward process.  
