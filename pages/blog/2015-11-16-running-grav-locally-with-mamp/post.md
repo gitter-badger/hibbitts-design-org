@@ -36,7 +36,7 @@ If you would prefer to only need to enter 'http://localhost' in your Browser to 
 2. Press the MAMP 'Preferences' button (see Figure 2)
 3. Press the 'Ports' tab in the 'Preferences' dialog
 4. Change the value in the 'Appache Port' field to '80' (no quotes)
-5. You're done!
+5. Press the 'Ok' button  
 
 ![MAMP Preferences Dialog](../2015-11-16-running-grav-locally-with-mamp/MAMP-preferences.png)  
 _Figure 2. MAMP Preferences dialog._
