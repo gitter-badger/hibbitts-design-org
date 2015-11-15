@@ -24,7 +24,7 @@ In this brief article we will look at how to use [MAMP](https://www.mamp.info/en
 
 1. Download MAMP (https://www.mamp.info/en/downloads/) and install the application
 2. If you do not already have a copy of Grav on your computer, download it at (http://getgrav.org/downloads/) and extract the downloaded archive file
-3. Copy your entire Grav folder to '/Applications/MAMP/htdocs/' on a Mac or 'C:/MAMP/htdocs' on a Windows PC
+3. Copy your entire Grav folder into '/Applications/MAMP/htdocs/' on a Mac or 'C:/MAMP/htdocs/' on a Windows PC
 4. Launch the MAMP application and press the button 'Start Servers' (see Figure 1)
 5. Launch your Web Browser and enter the URL http://localhost:8888 and then press the RETURN key
 
