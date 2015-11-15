@@ -31,7 +31,7 @@ In this brief article we will look at how to use [MAMP](https://www.mamp.info/en
 ![MAMP Welcome Screen](../2015-11-16-running-grav-locally-with-mamp/MAMP.png)  
 _Figure 1. MAMP startup screen._
 
-**Additional Setup Options**
+**Additional setup options**
 
 If you would prefer to only need to enter 'http://localhost' in your Web Browser to access your MAMP htdocs directory listing, then do the following:
 
