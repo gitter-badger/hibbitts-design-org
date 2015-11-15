@@ -20,7 +20,7 @@ One of the (many) great things about [Grav](http://getgrav.org) is that no datab
 
 1. Download MAMP (https://www.mamp.info/en/downloads/) and install the application
 2. Download Grav (http://getgrav.org/downloads/) and extract downloaded archive file
-3. Copy the entire extracted Grav folder to /Applications/MAMP/htdocs/' on a Mac or 'C:/MAMP/htdocs' on a Windows PC
+3. Copy the entire extracted Grav folder to '/Applications/MAMP/htdocs/' on a Mac or 'C:/MAMP/htdocs' on a Windows PC
 4. Launch the MAMP application
 5. Press the MAMP button 'Start Servers' (see Figure 1)
 6. Launch your Web Browser, enter the URL http://localhost:8888 and then press the RETURN key
