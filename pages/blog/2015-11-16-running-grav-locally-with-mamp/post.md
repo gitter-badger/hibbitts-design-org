@@ -47,4 +47,4 @@ _Figure 2. MAMP Preferences dialog._
 
 Once you start using this setup for your Grav development you might also want to change the location of the document directory used by MAMP, for example when using GitHub Desktop or ensuring your files are routinely backed up. You can find the setting to change the MAMP  directory in the 'Web Server' tab of the 'Preferences' dialog.
 
-If you are curious about how a local copy of Grav can be used with GitHib/GitHub Desktop for super-easy deployments, check out my [My Dream Workflow as an Instructor](../my-dream-workflow-as-an-instructor) article.
+If you are curious about how a local copy of Grav can be used with GitHib/GitHub Desktop for super-easy deployments while fully supporting student collaboration, check out my [My Dream Workflow as an Instructor](../my-dream-workflow-as-an-instructor) article.
