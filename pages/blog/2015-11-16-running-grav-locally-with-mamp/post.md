@@ -26,14 +26,11 @@ In this brief article we will look at how to use [MAMP](https://www.mamp.info/en
 2. If you do not already have a copy of Grav on your computer, download it at (http://getgrav.org/downloads/) and extract the downloaded archive file
 3. Copy your entire Grav folder into '/Applications/MAMP/htdocs/' on a Mac or 'C:/MAMP/htdocs/' on a Windows PC
 4. Launch the MAMP application and press the button 'Start Servers' (see Figure 1)
-5. Launch your Web Browser and enter the URL http://localhost:8888 and then press the RETURN key
-
-In your Web Browser you should now see the MAMP htdocs directory listing - press on the displayed Grav folder name to view your local Grav site
 
 ![MAMP Welcome Screen](../2015-11-16-running-grav-locally-with-mamp/MAMP.png)  
 _Figure 1. MAMP startup screen._
 
-Remember, once you've got your Grav site working as you want locally all you need to do is copy/FTP the files over to your server! No database (worries) required   
+With MAMP installed and running you can now view your Grav site(s) locally. Launch your Web Browser,  enter the URL http://localhost:8888 and then choose the displayed Grav folder name. That's it! Thanks to Grav no database needs to be created or configured.  
 
 **Additional MAMP Setup Options**
 
