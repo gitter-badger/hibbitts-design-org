@@ -7,7 +7,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'My Dream Workflow as an Instructor'
-    'twitter:description': 'In this article I will describe the details of my current workflow, which meets all of the previously identified requirements.'
+    'twitter:description': 'In this article I will describe the workflow details for my Fall 2015 Simon Fraser University CMPT-363 course companion.'
     'twitter:image': 'http://hibbittsdesign.org/user/pages/blog/2015-10-20-my-workflow/github-desktop.png'
 taxonomy:
     tags:
