@@ -16,7 +16,7 @@ taxonomy:
         - GitHub
 ---
 
-One of the (many) great things about the open source CMS [Grav](http://getgrav.org)  is that no database is required, which makes running a local copy of Grav on your computer for testing purposes a very straightforward process. This also makes deployment to a Web server a breeze - just a simple folder copy.
+One of the (many) great things about using the open source CMS [Grav](http://getgrav.org) for a [flipped-LMS approach](http://hibbittsdesign.org/blog/redefining-a-flipped-lms-approach) is that no database is required, which makes running a local copy of Grav on your computer for testing purposes a very straightforward process. This also makes deployment to a Web server a breeze - just a simple folder copy.
 
 In this brief article we will look at how to use [MAMP](https://www.mamp.info/en/), a tool to safely run a PHP server on your computer, to view Grav sites locally on your Mac or Windows PC.
 
