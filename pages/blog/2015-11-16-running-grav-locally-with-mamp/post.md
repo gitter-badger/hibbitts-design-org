@@ -18,7 +18,7 @@ taxonomy:
 
 One of the (many) great things about [Grav](http://getgrav.org) is that no database is required, which makes running a local copy of Grav on your computer for development or testing purposes a very straightforward process.  
 
-In this brief article we will look at how to use [MAMP](https://www.mamp.info/en/), a tool to safely run a PHP server on your computer, to run Grav locally on your Mac or Windows PC.
+In this brief article we will look at how to use [MAMP](https://www.mamp.info/en/), a tool to safely run a PHP server on your computer, to view Grav sites locally on your Mac or Windows PC.
 
 **Step-by-step Instructions**
 
