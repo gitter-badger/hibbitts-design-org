@@ -17,7 +17,7 @@ taxonomy:
         - CanvasLMS
 ---
 
-In my LinkedIn article [Online Course Companions: Workflow Requirements for (us) Instructors](https://www.linkedin.com/pulse/online-course-companions-some-requirements-us-paul-hibbitts) I outlined the workflow requirements of providing the online course companion for my students this upcoming term at [Simon Fraser University](http://www.sfu.ca/). In this article I will describe the details of my current workflow, which meets all of the previously identified requirements.
+In my LinkedIn article [Online Course Companions: Workflow Requirements for (us) Instructors](https://www.linkedin.com/pulse/online-course-companions-some-requirements-us-paul-hibbitts) I outlined the workflow requirements of my [Simon Fraser University](http://www.sfu.ca/) online course companion. In this article I will describe the details of my current workflow, which meets all of these previously identified requirements.
 
 The one element that makes everything possible is the open source CMS [Grav](http://www.getgrav.org/), which in addition to empowering me to provide a great user experience for my students, uses a non-database approach in which content and code are stored separately as text files (often referred to as a flat-file CMS). Within content text files it is possible to use plain text, [Markdown](http://daringfireball.net/projects/markdown/syntax) and HTML. Grav also supports modular content, which means content can be displayed in multiple areas and contexts but only needs to be stored once. Think [content blobs vs. chunks](http://ez.no/Blog/Blobs-vs.-Chunks-Understanding-True-Separation-of-Content-from-Presentation).
 
