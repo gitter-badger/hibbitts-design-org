@@ -21,8 +21,8 @@ Key learner experience design goals:
 * Enjoyable
 
 Key facilitator experience design goals (likely to supercede my earlier set of [Desired Qualities of a Flipped-LMS](../desired-qualities-of-a-flipped-lms-approach)):
-* Convenient
-* Open
+* Controllable (i.e. manageable)
 * Collaborative
+* Pliable (i.e. flexible)
+* Convenient
 * Enjoyable
-* Pliable
