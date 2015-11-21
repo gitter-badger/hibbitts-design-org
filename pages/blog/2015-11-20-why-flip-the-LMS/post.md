@@ -15,7 +15,7 @@ taxonomy:
 
 So, why would course facilitators want to utilize a flipped-LMS approach?  
 
-Here are some initial reasons that come to mind:
+Here are some primary reasons that come to mind:
 
 * To support your pedagogical goals
 * To enable an open practice for you and your students
