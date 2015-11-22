@@ -17,8 +17,6 @@ So, why would course facilitators want to utilize a flipped-LMS approach?
 
 Here are some primary reasons that come to mind:
 
-* To support your pedagogical goals
-* To enable an open practice for you and your students
-* To deliver a better student (and facilitator!) experience
-* To avoid data lock-in with the current institutional LMS
-* To increase flexibility over such aspects as access, sharing, etc.
+* To support pedagogical goals unmet by current LMS/platform
+* To increase capability of access, sharing and collaboration
+* To deliver a better student (and facilitator) experience
