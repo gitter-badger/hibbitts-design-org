@@ -15,7 +15,7 @@ taxonomy:
 
 So, why would course facilitators want to utilize a flipped-LMS approach?  
 
-Here are some primary reasons that come to mind:
+Here are three primary reasons that come to mind:
 
 * To support pedagogical goals unmet by current LMS/platform
 * To increase capability of access, sharing and collaboration
