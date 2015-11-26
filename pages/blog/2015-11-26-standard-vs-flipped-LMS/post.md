@@ -21,7 +21,7 @@ Recently the question of how does a traditional LMS usage compare to a flipped L
 |Institutional Control |   Instructor & Student Control  |
 | Closed |  Open |
 | Locked-down | Pliable |
-| Slow | Efficient
+| Laborious | Efficient
 | Proprietary | Standards |
 | Solitary | Collaborative |
 | Stationary | Portable |
