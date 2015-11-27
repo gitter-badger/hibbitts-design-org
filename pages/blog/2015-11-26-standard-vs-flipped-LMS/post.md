@@ -14,12 +14,12 @@ taxonomy:
         - Traditional LMS
 ---
 
-Recently the question of how does traditional LMS usage compare to a flipped LMS approach has come up. Here are my initial thoughts so far, based on my experiences with several different LMS implementations:
+Recently the question of how does traditional LMS usage compare to a flipped LMS approach has come up. Here are my initial thoughts so far, based on my experiences with several different LMS implementations and using the [Grav CMS](http://www.getgrav.org) with a flipped-LMS approach:
 
 |Traditional LMS Usage &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Flipped-LMS Approach |
 |:------------- |:-------------
 |Institutional Control |   Instructor & Student Control  |
 | Closed |  Open |
-| Locked-down | Pliable |
+| Fixed | Pliable |
 | Solitary | Collaborative |
 | Stationary | Portable |
