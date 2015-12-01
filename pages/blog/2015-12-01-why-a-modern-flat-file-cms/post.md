@@ -13,7 +13,7 @@ taxonomy:
         - flat-file-CMS
 ---
 
-While every project needs are different, I am finding that database-based CMS platforms such as WordPress are often overblown for the needs of _individual_ educators/publishers. In contrast, flat-file CMS platforms offer simplicity and control. Here are some of the key reasons I am now focusing on using modern flat-file CMS's for my development work (especially when implementing a [flipped LMS](../redefining-a-flipped-lms-approach) approach):
+While every project needs are different, I am finding that database-based CMS platforms such as WordPress are often overblown for the needs of _individual_ web-savvy educators/publishers. In contrast, flat-file CMS platforms offer simplicity and control. Here are some of the key reasons I am now focusing on using modern flat-file CMS's for my development work (especially when implementing a [flipped LMS](../redefining-a-flipped-lms-approach) approach):
 
 * Modern
  *  Modern PHP code (i.e. reliability, speed, extensibility, etc.)
@@ -27,4 +27,4 @@ While every project needs are different, I am finding that database-based CMS pl
  *  Increased portability, as moving a site now only requires simply copying files to another location
  *  All template and content files are 100% version controllable, which also supports multiple contributors
 
-So, what is my favorite modern flat-file CMS right now? Without a doubt the rising star in this space is [Grav](http://www.getgrav.org). After developing with Grav for the past year it is, without a doubt, the CMS to watch for in this growing CMS category.
+So, what is my favorite modern flat-file CMS right now? Without a doubt the rising star in this space is [Grav](http://www.getgrav.org). After trying out various flat-file CMS's such [Kirby](http://getkirby.com/) and [Statamic](http://statamic.com/) I found Grav had a perfect mix of flexibility, ease of use, documentation, and community support.
