@@ -23,5 +23,6 @@ While every project needs are different, I am finding that database-based CMS pl
 * Flat-file
  *  No database means less (or no) IT involvement needed
  *  Content stored in text files rather than in a database (often translating into faster page access times)
+ *  Takes full advantage of the collaborative ecosystem now available (i.e. GitHub)
  *  Increased portability, as moving a site now only requires simply copying files to another location
  *  All template and content files are 100% version controllable, which also supports multiple contributors
