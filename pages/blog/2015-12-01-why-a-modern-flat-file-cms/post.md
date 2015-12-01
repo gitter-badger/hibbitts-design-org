@@ -27,4 +27,4 @@ While every project needs are different, I am finding that database-based CMS pl
  *  Increased portability, as moving a site now only requires simply copying files to another location
  *  All template and content files are 100% version controllable, which also supports multiple contributors
 
-So, what is my favorite modern flat-file CMS right now? Without a doubt the rising star in this space is [Grav](http://www.getgrav.org). After trying out various flat-file CMS's such [Kirby](http://getkirby.com/) and [Statamic](http://statamic.com/) I found Grav had a perfect mix of flexibility, ease of use, documentation, and community support.
+So, what is my favorite modern flat-file CMS right now? Without a doubt the rising star in this space is [Grav](http://www.getgrav.org). After trying out various flat-file CMS's such [Kirby](http://getkirby.com/) and [Statamic](http://statamic.com/) I found Grav had a perfect mix of flexibility, ease of use, solid documentation, and community support.
