@@ -7,7 +7,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Why a modern flat-file (no database) CMS?'
-    'twitter:description': 'Some key reasons why I am focused on flat-file CMS development.'
+    'twitter:description': 'Some key reasons why I am now focusing on flat-file CMS development.'
 taxonomy:
     tags:
         - flat-file-CMS
@@ -24,4 +24,4 @@ While every project needs are different, I am finding that database-based CMS pl
  *  No database means less (or no) IT involvement needed
  *  Content stored in text files rather than in a database (often translating into faster page access times)
  *  Increased portability, as moving a site now only requires simply copying files to another location
- *  All template and content files are 100% version controllable
+ *  All template and content files are 100% version controllable, which also supports multiple contributors
