@@ -22,7 +22,6 @@ While every project needs are different, I am finding that database-based CMS pr
  *  Further separation of content (i.e. files) from presentation
 * Flat-file
  *  No database means less (or no) IT involvement needed
- *  Content stored in text files rather than in a database
- *  In many cases, this translates into faster page access times
+ *  Content stored in text files rather than in a database (often translating into faster page access times)
  *  Increased portability, as moving a site now only requires simply copying files to another location
  *  All template and content files are 100% version controllable
