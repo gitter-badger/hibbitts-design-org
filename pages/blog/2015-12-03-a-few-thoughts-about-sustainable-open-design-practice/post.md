@@ -11,7 +11,7 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few Thoughts About Sustainable Open Design Practice
-    'twitter:description' : A collection of a few recent thoughts about a sustainable design practice.
+    'twitter:description' : A collection of a few recent tweets about a sustainable design practice.
 ---
 
 _I've been trying to formulate a sustainable approach of an open design practice for my consultancy Hibbitts Design, and I think I am getting closer to defining a workable approach:_
