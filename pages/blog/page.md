@@ -8,7 +8,7 @@ content:
     order:
         by: date
         dir: desc
-    limit: 10
+    limit: 15
     pagination: true
 feed:
     description: 'HibbittsDesign.org - Experience Design for Open [Source] Learning Environments'

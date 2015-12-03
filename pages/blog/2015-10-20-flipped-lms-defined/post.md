@@ -3,6 +3,7 @@ title: 'Flipped-LMS (Re)Defined'
 slug: redefining-a-flipped-lms-approach
 date: '20-10-2015 00:00'
 comments: true
+published: true
 metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
