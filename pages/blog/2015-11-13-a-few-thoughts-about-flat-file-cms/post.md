@@ -1,5 +1,5 @@
 ---
-title: "A Few Thoughts About... Flat-file CMS's"
+title: "A Few Thoughts About... Flat-file CMSs"
 slug: a-few-thoughts-about-flat-file-cms
 date: 11/13/2015
 comments: true
@@ -12,8 +12,8 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : A Few Thoughts About Flat-file CMS's
-    'twitter:description' : A collection of a few recent thoughts about flat-file CMS's.
+    'twitter:title' : A Few Thoughts About Flat-file CMSs
+    'twitter:description' : A collection of a few recent thoughts about flat-file CMSs.
 ---
 
 _But first, what does the term 'flat-file CMS' mean? In a nutshell, content is stored as individual text files rather than in a database._

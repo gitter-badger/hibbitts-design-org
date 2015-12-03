@@ -13,7 +13,7 @@ taxonomy:
         - flat-file-CMS
 ---
 
-While every project has different needs, I am finding that database-based CMS platforms such as WordPress are often too complex/feature-laden for the needs of _individual_ educators/publishers. In contrast, flat-file CMS platforms offer more simplicity and control. Here are some of the key reasons I am now focusing on using modern flat-file CMS's for my development work (especially when implementing a [flipped LMS](../redefining-a-flipped-lms-approach) approach):
+While every project has different needs, I am finding that database-based CMS platforms such as WordPress are often too complex/feature-laden for the needs of _individual_ educators/publishers. In contrast, flat-file CMS platforms offer more simplicity and control. Here are some of the key reasons I am now focusing on using modern flat-file CMSs for my development work (especially when implementing a [flipped LMS](../redefining-a-flipped-lms-approach) approach):
 
 * Modern
  *  Modern PHP code (i.e. reliability, speed, extensibility, etc.)
@@ -27,4 +27,4 @@ While every project has different needs, I am finding that database-based CMS pl
  *  Increased portability, as moving a site now only requires simply copying files to another location
  *  All template and content files are 100% version controllable
 
-So, what is my favorite modern flat-file CMS right now? Without a doubt the rising star in this space to me is [Grav](http://www.getgrav.org), which is actually more of a web-platform than a traditional CMS. After trying out a number of flat-file CMS's, including  [Kirby](http://getkirby.com/) and [Statamic](http://statamic.com/), I found Grav has a perfect mix of flexibility and ease of use for web-savvy educators. In addition, Grav is backed up with [solid documentation](http://learn.getgrav.org/) and [community support](http://getgrav.org/forum).
+So, what is my favorite modern flat-file CMS right now? Without a doubt the rising star in this space to me is [Grav](http://www.getgrav.org), which is actually more of a web-platform than a traditional CMS. After trying out a number of flat-file CMSs, including  [Kirby](http://getkirby.com/) and [Statamic](http://statamic.com/), I found Grav has a perfect mix of flexibility and ease of use for web-savvy educators. In addition, Grav is backed up with [solid documentation](http://learn.getgrav.org/) and [community support](http://getgrav.org/forum).
