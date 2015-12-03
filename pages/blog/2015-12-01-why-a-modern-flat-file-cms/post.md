@@ -13,7 +13,7 @@ taxonomy:
         - flat-file-CMS
 ---
 
-While every project needs are different, I am finding that database-based CMS platforms such as WordPress are often overblown for the needs of _individual_ educators/publishers. In contrast, flat-file CMS platforms offer more simplicity and control. Here are some of the key reasons I am now focusing on using modern flat-file CMS's for my development work (especially when implementing a [flipped LMS](../redefining-a-flipped-lms-approach) approach):
+While every project has different needs, I am finding that database-based CMS platforms such as WordPress are often too complex/feature-laden for the needs of _individual_ educators/publishers. In contrast, flat-file CMS platforms offer more simplicity and control. Here are some of the key reasons I am now focusing on using modern flat-file CMS's for my development work (especially when implementing a [flipped LMS](../redefining-a-flipped-lms-approach) approach):
 
 * Modern
  *  Modern PHP code (i.e. reliability, speed, extensibility, etc.)

@@ -34,7 +34,7 @@ With MAMP installed and running you can now view your Grav site(s) locally. Laun
 
 **Additional MAMP Setup Options**
 
-If you would prefer to only need to enter 'http://localhost' in your Web Browser to access your MAMP htdocs directory listing, then do the following:
+If you would prefer, you only need to enter ‘http://localhost’ in your Web Browser to access your MAMP htdocs directory listing, then do the following:
 
 1. Launch the MAMP application. If MAMP is already running, press the 'Stop Servers' button
 2. Press the MAMP 'Preferences' button (see Figure 1)
