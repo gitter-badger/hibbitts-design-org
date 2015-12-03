@@ -14,7 +14,7 @@ metadata:
     'twitter:description' : A collection of a few recent tweets about a sustainable design practice.
 ---
 
-_I've been trying to formulate a sustainable approach of an open design practice for my education design related work, and I think I am getting closer to defining a workable approach:_
+_I've been trying to formulate a sustainable approach of an open design practice for my experience design work in the education field, and I think I am getting closer to defining a workable approach:_
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">(1/2) Slowly navigating my way through a sustainable open design practice. Leaning towards open source materials for individual educators,</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/672226903848148992">December 3, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
