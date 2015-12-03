@@ -14,8 +14,7 @@
 
 	{% block content %}
 
-        {% for post in collection %}
-						{% if "Featured" in post.taxonomy['tags'] %}
+        {% for post in taxonomy.findTaxonomy({'tags':"Featured"}) %}
 							<article class="hentry">
 	              <header>
 	                <div class="entry-meta">
@@ -37,7 +36,6 @@
 	                {{ post.content }}
 	              </div><!-- /.entry-content -->
 	            </article><!-- /.hentry -->
-						{% endif %}
         {% endfor %}
 
 				{% for post in collection %}
