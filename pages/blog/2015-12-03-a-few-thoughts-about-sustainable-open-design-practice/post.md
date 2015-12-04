@@ -22,4 +22,4 @@ _I've been trying to formulate a sustainable approach of an open design practice
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">(2/2) where ongoing relationships + user research are key, and monetization via workshops/consulting/support for institutions and companies.</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/672226944331571200">December 3, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
-Interested in learning more about open business models? Be sure to check out [Made With Creative Commons](https://medium.com/made-with-creative-commons/latest) on Medium!
+Interested in learning more about open business models? Be sure to check out [Made With Creative Commons](https://medium.com/made-with-creative-commons/latest) on Medium.
