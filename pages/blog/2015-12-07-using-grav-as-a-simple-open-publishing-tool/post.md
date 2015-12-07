@@ -6,6 +6,8 @@ published: true
 taxonomy:
     tags:
         - OpenPractice
+        - GitHub
+        - GravCMS
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
