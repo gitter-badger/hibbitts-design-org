@@ -33,7 +33,7 @@ We now have a simple open publishing system operating! Anytime someone makes a c
 
 It should be noted that you would want to make any significant changes to the chosen Grav theme  _before_ you upload the Grav site to your Web server. You can still make changes to the theme once it is running on your Web server, but doing so would require using a FTP program to edit the needed files or copy the updated files from your computer to the site. Alternatively, you could the place the entire "User" folder on GitHub which would also contain any theme modifications, but doing so would reduce the high-level visibility of your content files achieved when only placing the contents of your "Pages" folder on GitHub.
 
-Here is an overview of the flow of making a change to content via GitHub:
+Here is an overview of the flow of someone making a change to your site content via GitHub:
 
 1. Viewing the Grav site, a viewer can click the provided "Edit this Page" link to propose changes to the page. You can view an example site with this ability at [http://www.hibbittsdesign.org/coursecompanionstarterkit/](http://www.hibbittsdesign.org/coursecompanionstarterkit/)  
 
