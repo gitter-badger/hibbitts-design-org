@@ -22,7 +22,7 @@ Here is a snapshot of the approach with the best results so far:
   ![Grav Admin Panel Dashboard](dashboard.png)  
   _Figure 1. Grav Admin Panel Dashboard._
 
-* A GitHub repository containing _only_ the "Pages" folder of the Grav instance. This results in having only content files (using Markdown) being presented in the repository, bringing a high-level of visibility to the content files of your site. You can view the GitHub repository of my example "Pages" site folder at [https://github.com/hibbitts-design/course-companion-starter-kit](https://github.com/hibbitts-design/course-companion-starter-kit)  
+* A GitHub repository containing _only_ the "Pages" folder of the Grav instance. This results in having only content files (using Markdown) being presented in the repository, bringing a high-level of visibility to the content files of your site for users who wish to go directly to GitHub for access to your site content. You can view the GitHub repository of my example "Pages" site folder at [https://github.com/hibbitts-design/course-companion-starter-kit](https://github.com/hibbitts-design/course-companion-starter-kit)  
 
   ![Example GitHub repository](course-companion-starter-kit-github.png)  
   _Figure 2. Example GitHub repository, containing only the "Pages" folder._
