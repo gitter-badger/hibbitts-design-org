@@ -17,10 +17,10 @@ Recently, I've been exploring ways to use the modern flat-file CMS [Grav](http:/
 
 Here is a snapshot of the approach with the best results so far:
 
-* An instance of Grav running on a Web server, with the Admin Panel plugin installed and using the [Learn2](http://getgrav.org/downloads/themes) theme. The Learn2 theme has also been configured with the required GitHub repository URL information (see below), although any Grav theme could also be customized to support this ability. With the Admin Panel installed, any required updates for Grav can be done easily online.
+* An instance of Grav running on a Web server, with the Admin Panel plugin installed and using the [Learn2](http://getgrav.org/downloads/themes) theme. The Learn2 theme has also been configured with the required GitHub repository URL information (see below), although any Grav theme could easily also be customized to support this ability.
 
   ![Grav Admin Panel Dashboard](dashboard.png)  
-  _Figure 1. Grav Admin Panel Dashboard._
+  _Figure 1. Grav Admin Panel Dashboard. With the Admin Panel installed, any required updates for Grav can be done easily online._
 
 * A GitHub repository containing _only_ the "Pages" folder of the site. This results in having only content files (using Markdown) being presented in the repository, bringing a high-level of visibility to the content files of your site. You can view the GitHub repository of my "Pages" site folder at [https://github.com/hibbitts-design/course-companion-starter-kit](https://github.com/hibbitts-design/course-companion-starter-kit)  
 
