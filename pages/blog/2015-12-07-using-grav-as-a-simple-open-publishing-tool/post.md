@@ -19,17 +19,17 @@ Here is a snapshot of the approach with the best results so far:
 
 * An instance of [Grav](http://getgrav.org/) running on a Web server, with the Admin Panel plugin installed and using the [Learn2](http://getgrav.org/downloads/themes) theme. The Learn2 theme has also been configured with the required GitHub repository URL information (see below). With the Admin Panel installed, any required updates for Grav can be done easily online.
 
-  ![Grav Admin Panel dashboard](dashboard.png)  
-  _Figure 1. Grav Admin Panel dashboard._
+  ![Grav Admin Panel Dashboard](dashboard.png)  
+  _Figure 1. Grav Admin Panel Dashboard._
 
 * A GitHub repository containing _only_ the "Pages" folder of the site. This results in having only content files (using Markdown) being presented in the repository, bringing a high-level of visibility to the content files of your site. You can view the GitHub repository of my "Pages" site folder at https://github.com/hibbitts-design/course-companion-starter-kit  
 
   ![Example GitHub repository](course-companion-starter-kit-github.png)  
-  _Figure 2. Example GitHub repository only containing "Pages" folder._
+  _Figure 2. Example GitHub repository, containing only the "Pages" folder._
 
 * Using a GetHub Webhook either through a service such as [Deploy](https://www.deployhq.com/), or directly by adding the needed PHP file (see [Grav Development with GitHub - Part 2](http://getgrav.org/blog/developing-with-github-part-2)), configure a site update to be automatically performed when one or more content files are modified on GitHub.
 
-We now have a simple open publishing system operating! Anytime someone makes a change on the GitHub repository, and you approve of the change, the results will be automatically published to the live site. As well, all of your edits, etc. are available for public viewing and commentary. The content made available on GitHub may also be forked and used for other useful purposes.
+We now have a simple open publishing system operating! Anytime someone makes a change in the GitHub repository, and you approve of the change, the results will be automatically published to the live site. As well, all of your edits, etc. are available for public viewing and commentary. The content made available on GitHub may also be forked and used for other useful purposes.
 
 It should be noted that you would want to make any significant changes to the chosen Grav theme  _before_ you upload the Grav site to your Web server. You can still make changes to the theme once it is running on your Web server, but doing so would require using a FTP program to update the needed files. Alternatively, you could the place the entire "User" folder on GitHub which would also contain any theme modifications, but doing so would reduce the high-level visibility of your content files achieved when only placing the contents of your "Pages" folder on GitHub.
 
@@ -44,11 +44,11 @@ Here is an overview of the flow of making a change to content via GitHub:
   ![Editing Overview site page on GitHub](Editing.png)  
   _Figure 4. Editing Overview site page on GitHub, which when completed will result in a Pull Request._
 
-3. The site author reviews the submitted Pull Request, and can approve changes immediately or start a discussion with the author of the proposed changes for further modifications, etc.
+3. The site administrator reviews the submitted Pull Request, and can approve changes immediately or start a discussion with the author of the proposed changes for further modifications, etc.
   ![Review submitted Pull Request on GitHub](PullRequest.png)  
   _Figure 5. Review submitted Pull Request on GitHub, showing GitHub's super-useful file changes preview._
 
-4. Once the change has been approved, and the changes to the GitHub repository have been automatically pushed to the server, the updated content is available to be viewed.
+4. Once the change has been approved by a site administrator of the GitHub account, and the changes to the GitHub repository have been automatically pushed to the server, the updated content is available to be viewed.
   ![Updated site page - Overview](UpdatedOverview.png)  
   _Figure 6. Updated site page - Overview._
 
