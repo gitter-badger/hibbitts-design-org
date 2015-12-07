@@ -48,7 +48,7 @@ Here is an overview of the flow of making a change to content via GitHub:
   ![Review submitted Pull Request on GitHub](PullRequest.png)  
   _Figure 5. Review submitted Pull Request on GitHub, showing GitHub's super-useful file changes preview._
 
-4. Once the change has been approved by a site administrator of the GitHub account, and the changes to the GitHub repository have been automatically pushed to the server, the updated content is available to be viewed.
+4. Once the change has been approved by a site administrator of the GitHub account, and the changes to the GitHub repository will be automatically pushed to the server, the updated content is available to be viewed.
   ![Updated site page - Overview](UpdatedOverview.png)  
   _Figure 6. Updated site page - Overview._
 
