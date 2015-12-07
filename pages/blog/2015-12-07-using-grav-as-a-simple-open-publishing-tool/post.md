@@ -13,11 +13,11 @@ metadata:
     'twitter:description' : An example of using Grav as a simple online publishing tool.
 ---
 
-Recently, I've been exploring ways to use the Grav CMS as a simple open publishing tool. Grav is a natural candidate for this usage, as with its flat-file implementation all content can be stored on a variety of open and collaborative editing environments (e.g. GitHub).
+Recently, I've been exploring ways to use the [Grav CMS](http://getgrav.org/) as a simple open publishing tool. Grav is a natural candidate for this usage, as with its flat-file implementation all content is stored as individual files which then can be placed on a variety of open and collaborative editing environments (e.g. GitHub).
 
 Here is a snapshot of the approach with the best results so far:
 
-* An instance of [Grav](http://getgrav.org/) running on a Web server, with the Admin Panel plugin installed and using the [Learn2](http://getgrav.org/downloads/themes) theme. The Learn2 theme has also been configured with the required GitHub repository URL information (see below). With the Admin Panel installed, any required updates for Grav can be done easily online.
+* An instance of Grav running on a Web server, with the Admin Panel plugin installed and using the [Learn2](http://getgrav.org/downloads/themes) theme. The Learn2 theme has also been configured with the required GitHub repository URL information (see below). With the Admin Panel installed, any required updates for Grav can be done easily online.
 
   ![Grav Admin Panel Dashboard](dashboard.png)  
   _Figure 1. Grav Admin Panel Dashboard._
