@@ -11,7 +11,7 @@ metadata:
     'twitter:image' : http://hibbittsdesign.org/user/pages/blog/2015-11-16-running-grav-locally-with-mamp/MAMP.png
 taxonomy:
     tags:
-        - Grav
+        - GravCMS
         - MAMP
         - GitHub
 ---
