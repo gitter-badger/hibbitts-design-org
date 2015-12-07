@@ -13,7 +13,7 @@ metadata:
     'twitter:description' : An example of using Grav as a simple online publishing tool.
 ---
 
-Recently, I've been exploring ways to use the Grav CMS as a simple open publishing tool. Grav is a natural candidate for this usage, as with its flat-file implementation all content is easily storable on a variety of collaborative editing environments (e.g. GitHub).
+Recently, I've been exploring ways to use the Grav CMS as a simple open publishing tool. Grav is a natural candidate for this usage, as with its flat-file implementation all content can be stored on a variety of open and collaborative editing environments (e.g. GitHub).
 
 Here is a snapshot of the approach with the best results so far:
 
