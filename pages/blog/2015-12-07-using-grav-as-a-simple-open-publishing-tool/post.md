@@ -38,7 +38,7 @@ Here is an overview of the flow of making a change to content via GitHub:
 1. Viewing the Grav site, a viewer can click the provided "Edit Page" link to propose changes to the page.
 
   ![Example site page - Overview](Overview.png)  
-  _Figure 3. Example site page - Overview, with link to edit page on GitHub._
+  _Figure 3. Example site page - Overview, using a modified version of the Learn2 theme with link to edit page on GitHub._
 
 2. Once the viewer has logged into GitHub, they can edit the page and then submit the Pull Request.
   ![Editing Overview site page on GitHub](Editing.png)  
