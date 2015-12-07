@@ -19,6 +19,9 @@ Here is a snapshot of the approach that has produced the best results for me so 
 
 * An instance of Grav running on a Web server, using a slightly modified version of the [Learn2](http://getgrav.org/downloads/themes) theme. The Learn2 theme is pre-configured with support for content to be stored/maintained on GitHub, although any Grav theme could also be customized to support this ability. The [Admin Panel](http://getgrav.org/blog/beta-admin-plugin-available) plugin has also been installed, providing the ability to perform easily any needed Grav system updates.
 
+  ![Grav Learn2 Theme](Learn2.png)  
+  _Figure 1. Grav Learn2 Theme._
+
   ![Grav Admin Panel Dashboard](dashboard.png)  
   _Figure 1. Grav Admin Panel Dashboard._
 
