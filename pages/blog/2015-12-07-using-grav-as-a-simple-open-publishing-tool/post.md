@@ -35,10 +35,10 @@ It should be noted that you would want to make any significant changes to the ch
 
 Here is an overview of the flow of making a change to content via GitHub:
 
-1. Viewing the Grav site, a viewer can click the provided "Edit Page" link to propose changes to the page.
+1. Viewing the Grav site, a viewer can click the provided "Edit Page" link to propose changes to the page. You can view an example site at with the ability at [http://www.hibbittsdesign.org/coursecompanionstarterkit/](http://www.hibbittsdesign.org/coursecompanionstarterkit/)  
 
   ![Example site page - Overview](Overview.png)  
-  _Figure 3. Example site page - Overview, using a modified version of the Learn2 theme with link to edit the page on GitHub._ You can view this example site at [http://www.hibbittsdesign.org/coursecompanionstarterkit/](http://www.hibbittsdesign.org/coursecompanionstarterkit/)  
+  _Figure 3. Example site page - Overview, using a modified version of the Learn2 theme with link to edit the page on GitHub._
 
 2. Once the viewer has logged into GitHub, they can edit the page and then submit the Pull Request.
   ![Editing Overview site page on GitHub](Editing.png)  
