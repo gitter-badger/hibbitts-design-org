@@ -17,7 +17,7 @@ Recently, I've been exploring ways to use the modern flat-file CMS [Grav](http:/
 
 Here is a snapshot of the approach with the best results so far:
 
-* An instance of Grav running on a Web server, with the Admin Panel plugin installed and using the [Learn2](http://getgrav.org/downloads/themes) theme. The Learn2 theme has also been configured with the required GitHub repository URL information (see below), although any Grav theme could easily also be customized to support this ability.
+* An instance of Grav running on a Web server, with the Admin Panel plugin installed and using the [Learn2](http://getgrav.org/downloads/themes) theme. The Learn2 theme has also been configured with the required GitHub repository URL information (see below), although any Grav theme could also be customized to support this ability. 
 
   ![Grav Admin Panel Dashboard](dashboard.png)  
   _Figure 1. Grav Admin Panel Dashboard. With the Admin Panel installed, any required updates for Grav can be done easily online._
