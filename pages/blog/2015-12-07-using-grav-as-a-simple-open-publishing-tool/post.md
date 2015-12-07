@@ -1,7 +1,7 @@
 ---
 title: 'Using Grav as a Simple Open Publishing Tool'
 slug: grav-as-a-simple-open-publishing-tool
-date: '06-12-2015 00:00'
+date: '07-12-2015 00:00'
 published: true
 taxonomy:
     tags:
