@@ -38,7 +38,7 @@ Here is an overview of the flow of someone making a change to your site content 
 1. Viewing the Grav site, a viewer can click the provided "Edit this Page" link to propose changes to the page. You can view an example site with this ability at [http://www.hibbittsdesign.org/coursecompanionstarterkit/](http://www.hibbittsdesign.org/coursecompanionstarterkit/)  
 
   ![Example site page - Overview](Overview.png)  
-  _Figure 3. Example site page - Overview, using a modified version of the Learn2 theme with link to edit the page on GitHub._
+  _Figure 3. Example site page - Overview, using a modified version of the Learn2 theme with a link to edit the page on GitHub._
 
 2. Once the viewer has logged into GitHub, they can edit the page and then submit a Pull Request (a request for the site administrator to review and approve the submitted changes).
   ![Editing Overview site page on GitHub](Editing.png)  
