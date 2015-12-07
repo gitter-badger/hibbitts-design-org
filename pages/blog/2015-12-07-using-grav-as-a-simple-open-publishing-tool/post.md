@@ -13,11 +13,11 @@ metadata:
     'twitter:description' : An example of using Grav as a simple online publishing tool.
 ---
 
-Recently, I've been exploring ways to use the modern flat-file CMS [Grav](http://getgrav.org/) as a simple open publishing tool. Grav is a natural candidate for this usage, as all content is stored as individual files which then can be placed on a variety of open and collaborative editing environments (e.g. [GitHub](https://github.com/)).
+Recently, I've been exploring ways to use the modern flat-file CMS [Grav](http://getgrav.org/) as a simple open publishing tool. Grav is a natural candidate for this usage, as all content is stored as individual files that then can be placed on a variety of open and collaborative editing environments (e.g. [GitHub](https://github.com/)).
 
 Here is a snapshot of the approach with the best results so far:
 
-* An instance of Grav using the [Learn2](http://getgrav.org/downloads/themes) theme. The Learn2 theme has been configured with the required GitHub repository information (see below), although any Grav theme could also be customized to support this ability. The [Admin Panel](http://getgrav.org/blog/beta-admin-plugin-available) plugin has also been installed, providing the ability to easily perform any needed Grav system updates.
+* An instance of Grav using the [Learn2](http://getgrav.org/downloads/themes) theme. The Learn2 theme has been configured with the required GitHub repository information (see below), although any Grav theme could also be customized to support this ability. The [Admin Panel](http://getgrav.org/blog/beta-admin-plugin-available) plugin has also been installed, providing the ability  o perform easily any needed Grav system updates.
 
   ![Grav Admin Panel Dashboard](dashboard.png)  
   _Figure 1. Grav Admin Panel Dashboard._
@@ -31,7 +31,7 @@ Here is a snapshot of the approach with the best results so far:
 
 We now have a simple open publishing system operating! Anytime someone makes a change in the GitHub repository, and you approve of the change, the results will be automatically published to the live site. As well, all of your edits, etc. are available for public viewing and commentary. The content made available on GitHub may also be forked and used for other useful purposes.
 
-It should be noted that you would want to make any significant changes to the chosen Grav theme  _before_ you upload the Grav site to your Web server. You can still make changes to the theme once it is running on your Web server, but doing so would require using a FTP program to edit the needed files or copy the updated files from your computer to the site. Alternatively, you could the place the entire "User" folder on GitHub (or even the entire Grav instance, as Grav is open source) which would also contain any theme modifications, but doing so would reduce the high-level visibility of your content files achieved when only placing the contents of your "Pages" folder on GitHub.
+It should be noted that you would want to make any significant changes to the chosen Grav theme  _before_ you upload the Grav site to your Web server. You can still make changes to the theme once it is running on your Web server, but doing so would require using a FTP program to edit the needed files or copy the updated files from your computer to the site. Alternatively, you could the place the "User" folder on GitHub (or even the entire Grav instance, as Grav is open source) which would also contain any theme customizations, but doing so would reduce the high-level visibility of your content files achieved when only placing the contents of your "Pages" folder on GitHub.
 
 Here is an overview of the flow of someone making a change to your site content via GitHub:
 
