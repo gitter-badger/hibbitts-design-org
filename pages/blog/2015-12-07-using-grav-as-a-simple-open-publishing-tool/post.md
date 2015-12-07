@@ -31,7 +31,7 @@ Here is a snapshot of the approach with the best results so far:
 
 We now have a simple open publishing system operating! Anytime someone makes a change on the GitHub repository, and you approve of the change, the results will be automatically published to the live site. As well, all of your edits, etc. are available for public viewing and commentary. The content made available on GitHub may also be forked and used for other useful purposes.
 
-It should be noted that you would want to make any significant changes to the Grav theme used _before_ you upload the Grav site to your Web server. You can still make changes to the theme once it is running on your Web server, but to do so would likely require using a FTP program to update the needed files.
+It should be noted that you would want to make any significant changes to the chosen Grav theme  _before_ you upload the Grav site to your Web server. You can still make changes to the theme once it is running on your Web server, but doing so would require using a FTP program to update the needed files. Alternatively, you could the place the entire "User" folder on GitHub which would also contain any theme modifications, but doing so would reduce the high-level visibility of your content files achieved when only placing the contents of your "Pages" folder on GitHub.
 
 Here is an overview of the flow of making a change to content via GitHub:
 
