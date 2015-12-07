@@ -10,7 +10,7 @@ metadata:
     'twitter:description': 'Some key reasons why I am now focusing on flat-file CMS development.'
 taxonomy:
     tags:
-        - flat-file-CMS
+        - FlatFileCMS
 ---
 
 While every project has different needs, I am finding that database-based CMS platforms such as WordPress are often too complex/feature-laden for the needs of _individual_ educators/publishers. In contrast, flat-file CMS platforms offer more simplicity and control. Here are some of the key reasons I am now focusing on using modern flat-file CMSs for my development work (especially when implementing a [flipped LMS](../redefining-a-flipped-lms-approach) approach):

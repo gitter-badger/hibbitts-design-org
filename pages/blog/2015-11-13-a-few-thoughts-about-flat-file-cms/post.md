@@ -6,7 +6,7 @@ comments: true
 published: true
 taxonomy:
     tags:
-        - flat-file-CMS
+        - FlatFileCMS
         - GitHub
         - GravCMS
 metadata:
