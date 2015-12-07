@@ -8,7 +8,7 @@ taxonomy:
         - OpenPractice
         - GitHub
         - GravCMS
-        - Flat-File-CMS
+        - FlatFileCMS
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
