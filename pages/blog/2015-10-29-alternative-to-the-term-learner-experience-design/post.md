@@ -1,5 +1,5 @@
 ---
-title: 'Alternative to the term Learner Experience Design?'
+title: 'Alternative to the Term Learner Experience Design?'
 slug: alternative-to-the-term-learner-experience-design
 date: '29-10-2015 00:00'
 comments: true

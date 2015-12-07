@@ -1,5 +1,5 @@
 ---
-title: "They’re not learners, they’re people (via technkl.com)"
+title: "They’re Not Learners, They’re People (via technkl.com)"
 slug: 2015-10-30-theyre-not-learners-theyre-people-linked-post
 date: 10/30/2015
 comments: false

@@ -1,5 +1,5 @@
 ---
-title: 'Why a modern flat-file (no database) CMS?'
+title: 'Why a Modern Flat-file (no database) CMS?'
 slug: why-a-modern-flat-file-cms
 date: '01-12-2015 00:00'
 comments: true
