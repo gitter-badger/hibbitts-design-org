@@ -23,12 +23,12 @@ Here is a snapshot of the approach that has produced the best results for me so 
   _Figure 1. Grav Learn2 Theme._
 
   ![Grav Admin Panel Dashboard](dashboard.png)  
-  _Figure 1. Grav Admin Panel Dashboard._
+  _Figure 2. Grav Admin Panel Dashboard._
 
 * A GitHub repository containing _only_ the "Pages" folder of the Grav instance. This results in having only content files (using Markdown) being presented in the repository, bringing a high-level of visibility to the content files of your site for users who wish to interact directly with the GitHub repository. You can view the GitHub repository of my example "Pages" site folder at [https://github.com/hibbitts-design/course-companion-starter-kit](https://github.com/hibbitts-design/course-companion-starter-kit)  
 
   ![Example GitHub repository](course-companion-starter-kit-github.png)  
-  _Figure 2. Example GitHub repository, containing only the "Pages" folder._
+  _Figure 3. Example GitHub repository, containing only the "Pages" folder._
 
 * Using a GetHub Webhook either through a service such as [Deploy](https://www.deployhq.com/), or directly by adding the needed PHP file (see [Grav Development with GitHub - Part 2](http://getgrav.org/blog/developing-with-github-part-2) on [getgrav.org](http://getgrav.org/)), configure a site update to be automatically performed when one or more content files are modified on GitHub.
 
@@ -41,18 +41,18 @@ Here is an overview of the flow of someone making a change to your site content 
 1. Viewing the Grav site, a viewer can click the provided "Edit this Page" link to propose changes to the page. You can view an example site with this ability at [http://www.hibbittsdesign.org/coursecompanionstarterkit/](http://www.hibbittsdesign.org/coursecompanionstarterkit/)  
 
   ![Example site page - Overview](Overview.png)  
-  _Figure 3. Example site page - Overview, using a modified version of the Learn2 theme with a link to edit the page on GitHub._
+  _Figure 4. Example site page - Overview, using a modified version of the Learn2 theme with a link to edit the page on GitHub._
 
 2. Once the viewer has logged into GitHub, they can edit the page and then submit a Pull Request (a request for the site administrator to review and approve the submitted changes).
   ![Editing Overview site page on GitHub](Editing.png)  
-  _Figure 4. Editing Overview site page on GitHub, which when completed will result in a Pull Request._
+  _Figure 5. Editing Overview site page on GitHub, which when completed will result in a Pull Request._
 
 3. The site administrator reviews the submitted Pull Request, and can approve changes immediately or start a discussion with the author of the proposed changes for further modifications, etc.
   ![Review submitted Pull Request on GitHub](PullRequest.png)  
-  _Figure 5. Review submitted Pull Request on GitHub, showing GitHub's super-useful file changes preview._
+  _Figure 6. Review submitted Pull Request on GitHub, showing GitHub's super-useful file changes preview._
 
 4. Once the change is approved by a site administrator of the GitHub account the changes to the GitHub repository will be automatically pushed to the server, where the updated content is available to be viewed.
   ![Updated site page - Overview](UpdatedOverview.png)  
-  _Figure 6. Updated site page - Overview._
+  _Figure 7. Updated site page - Overview._
 
 I personally also like to use [GitHub Desktop](https://desktop.github.com/) as a point-and-click means to keep a local copy of my GitHub repositories on my local machine so I can use any markdown-enabled application for editing my content files. GitHub Desktop can also sync any changes made to the GitHub repository down to your local machine. You can learn more about my use of GitHub Desktop in my earlier post [My Dream Workflow as an Instructor](http://hibbittsdesign.org/blog/my-dream-workflow-as-an-instructor).
