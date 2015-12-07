@@ -22,7 +22,7 @@ Here is a snapshot of the approach with the best results so far:
   ![Grav Admin Panel Dashboard](dashboard.png)  
   _Figure 1. Grav Admin Panel Dashboard._
 
-* A GitHub repository containing _only_ the "Pages" folder of the site. This results in having only content files (using Markdown) being presented in the repository, bringing a high-level of visibility to the content files of your site. You can view the GitHub repository of my "Pages" site folder at https://github.com/hibbitts-design/course-companion-starter-kit  
+* A GitHub repository containing _only_ the "Pages" folder of the site. This results in having only content files (using Markdown) being presented in the repository, bringing a high-level of visibility to the content files of your site. You can view the GitHub repository of my "Pages" site folder at [https://github.com/hibbitts-design/course-companion-starter-kit](https://github.com/hibbitts-design/course-companion-starter-kit)  
 
   ![Example GitHub repository](course-companion-starter-kit-github.png)  
   _Figure 2. Example GitHub repository, containing only the "Pages" folder._
@@ -38,7 +38,7 @@ Here is an overview of the flow of making a change to content via GitHub:
 1. Viewing the Grav site, a viewer can click the provided "Edit Page" link to propose changes to the page.
 
   ![Example site page - Overview](Overview.png)  
-  _Figure 3. Example site page - Overview, using a modified version of the Learn2 theme with link to edit the page on GitHub._
+  _Figure 3. Example site page - Overview, using a modified version of the Learn2 theme with link to edit the page on GitHub._ You can view this example site at [http://www.hibbittsdesign.org/coursecompanionstarterkit/](http://www.hibbittsdesign.org/coursecompanionstarterkit/)  
 
 2. Once the viewer has logged into GitHub, they can edit the page and then submit the Pull Request.
   ![Editing Overview site page on GitHub](Editing.png)  
