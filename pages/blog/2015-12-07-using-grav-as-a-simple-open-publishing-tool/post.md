@@ -52,4 +52,4 @@ Here is an overview of the flow of making a change to content via GitHub:
   ![Updated site page - Overview](UpdatedOverview.png)  
   _Figure 6. Updated site page - Overview._
 
-I personally also like to use [GitHub Desktop](https://desktop.github.com/) as a point-and-click means to keep a local copy of my GitHub repositories on my local machine so I can use any markdown-enabled application when editing my content files.
+I personally also like to use [GitHub Desktop](https://desktop.github.com/) as a point-and-click means to keep a local copy of my GitHub repositories on my local machine so I can use any markdown-enabled application when editing my content files. You can learn more about my use of GitHub Desktop in my earlier post [My Dream Workflow as an Instructor] (http://hibbittsdesign.org/blog/my-dream-workflow-as-an-instructor).
