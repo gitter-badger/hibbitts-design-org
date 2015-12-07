@@ -29,7 +29,7 @@ Here is a snapshot of the approach with the best results so far:
 
 * Using a GetHub Webhook either through a service such as [Deploy](https://www.deployhq.com/), or directly by adding the needed PHP file (see [Grav Development with GitHub - Part 2](http://getgrav.org/blog/developing-with-github-part-2)), configure a site update to be automatically performed when one or more content files are modified on GitHub.
 
-We now have a simple open publishing system operating! Anytime someone makes a change on the GitHub repository, and you approve of the change, the changes will be automatically published to the live site. As well, all of your edits, etc. are available for public viewing and commentary. All of the content available on GitHub may also be forked and used for other useful purposes.
+We now have a simple open publishing system operating! Anytime someone makes a change on the GitHub repository, and you approve of the change, the results will be automatically published to the live site. As well, all of your edits, etc. are available for public viewing and commentary. The content made available on GitHub may also be forked and used for other useful purposes.
 
 It should be noted that you would want to make any significant changes to the Grav theme used _before_ you upload the Grav site to your Web server. You can still make changes to the theme once it is running on your Web server, but to do so would likely require using a FTP program to update the needed files.
 
