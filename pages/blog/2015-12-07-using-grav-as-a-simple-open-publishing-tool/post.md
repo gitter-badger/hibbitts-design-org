@@ -27,7 +27,7 @@ Here is a snapshot of the approach with the best results so far:
   ![Example GitHub repository](course-companion-starter-kit-github.png)  
   _Figure 2. Example GitHub repository, containing only the "Pages" folder._
 
-* Using a GetHub Webhook either through a service such as [Deploy](https://www.deployhq.com/), or directly by adding the needed PHP file (see [Grav Development with GitHub - Part 2](http://getgrav.org/blog/developing-with-github-part-2)), configure a site update to be automatically performed when one or more content files are modified on GitHub.
+* Using a GetHub Webhook either through a service such as [Deploy](https://www.deployhq.com/), or directly by adding the needed PHP file (see [Grav Development with GitHub - Part 2](http://getgrav.org/blog/developing-with-github-part-2) on [getgrav.org](http://getgrav.org/)), configure a site update to be automatically performed when one or more content files are modified on GitHub.
 
 We now have a simple open publishing system operating! Anytime someone makes a change in the GitHub repository, and you approve of the change, the results will be automatically published to the live site. As well, all of your edits, etc. are available for public viewing and commentary. The content made available on GitHub may also be forked and used for other useful purposes.
 
