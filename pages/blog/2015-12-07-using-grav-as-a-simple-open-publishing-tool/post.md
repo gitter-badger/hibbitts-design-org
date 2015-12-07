@@ -15,7 +15,7 @@ metadata:
 
 Recently, I've been exploring ways to use the modern flat-file CMS [Grav](http://getgrav.org/) as a simple open publishing tool. Grav is a natural candidate for this usage, as all content is stored as individual files that then can be placed on a variety of open and collaborative editing environments (e.g. [GitHub](https://github.com/)).
 
-Here is a snapshot of the approach with the best results so far:
+Here is a snapshot of the approach that has produced the best results so far:
 
 * An instance of Grav running on a Web server, using a slightly modified version of the [Learn2](http://getgrav.org/downloads/themes) theme. The Learn2 theme has been configured with the required GitHub repository information (see below), although any Grav theme could also be customized to support this ability. The [Admin Panel](http://getgrav.org/blog/beta-admin-plugin-available) plugin has also been installed, providing the ability to perform easily any needed Grav system updates.
 
