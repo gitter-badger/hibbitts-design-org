@@ -40,7 +40,7 @@ Here is an overview of the flow of making a change to content via GitHub:
   ![Example site page - Overview](Overview.png)  
   _Figure 3. Example site page - Overview, using a modified version of the Learn2 theme with link to edit the page on GitHub._
 
-2. Once the viewer has logged into GitHub, they can edit the page and then submit the Pull Request.
+2. Once the viewer has logged into GitHub, they can edit the page and then submit a Pull Request.
   ![Editing Overview site page on GitHub](Editing.png)  
   _Figure 4. Editing Overview site page on GitHub, which when completed will result in a Pull Request._
 
