@@ -1,5 +1,5 @@
 ---
-title: 'Using Grav as a Simple Open Publishing Tool'
+title: 'Using Grav as a GitHub-powered Open Publishing Tool'
 slug: grav-as-a-simple-open-publishing-tool
 date: '07-12-2015 00:00'
 published: true
@@ -60,4 +60,4 @@ Here is an overview of the flow of someone making a change to your site content 
 
 I personally also like to use [GitHub Desktop](https://desktop.github.com/) as a point-and-click means to keep a local copy of my GitHub repositories on my local machine so I can use any markdown-enabled application for editing my content files. GitHub Desktop can also sync any changes made to the GitHub repository down to your local machine. You can learn more about my use of GitHub Desktop in my earlier post [My Dream Workflow as an Instructor](http://hibbittsdesign.org/blog/my-dream-workflow-as-an-instructor).
 
-_UPDATE: After I published this article a more fitting title came to mind (of course): Using Grav as a GitHub-powered Open Publishing Tool_
+_Note: The original title of this post was 'Using Grav as a Simple Open Publishing Tool'._
