@@ -103,7 +103,7 @@ This tutorial should take about 15 minutes, and once completed you will have an 
   ![ GitHub repository settings - Webhooks & services](github-settings-webhook.png)  
   _Figure 17. GitHub repository settings - Webhooks & services._
 
-10. Paste the URL that you copied from your Deploy project server settings, choose "application/x-www-form-urlencoded" in the "Content type" drop-down menu and then press the "Add Webhook button".
+10. Paste the URL that you copied from your Deploy project server settings, choose "application/x-www-form-urlencoded" in the "Content type" drop-down menu and then press the "Add webhook" button.
 
   ![GitHub repository settings - Webhooks & services information updated.](github-settings-webhook-entered.png)  
   _Figure 18. GitHub repository settings - Webhooks & services information updated._
