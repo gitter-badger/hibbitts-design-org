@@ -75,12 +75,12 @@ This tutorial itself should take about 15 minutes, and once completed you will h
   ![Deploy website homepage](deploy.png)  
   _Figure 11. Deploy website homepage._
 
-  Head over to [Deploy](deployhq.com), and sign-up for free account (one project, up to ten commits per day). Once you have signed up then create a new project with the needed details of your GitHub repository information and your web server credentials.
+  Head over to [Deploy](deployhq.com), and sign-up for a free account (one project, up to ten commits per day). Once you have signed up then create a new project with the needed details of your GitHub repository information and your web server credentials.
 
   ![Deploy account welcome page](deploy-welcome.png)  
   _Figure 12. Deploy account welcome page._
 
-8. Once you have created your first Deploy project, you will need to get the Webhook URL needed to be added to GitHub for automatic deployment of any changed site files. Press on the "Server" icon of your project info box to view the Server details page.
+8. With your first Deploy project created and configured, you will need to get the Webhook URL needed to be added to your GitHub repository for automatic deployment of any changed site files. Press on the "Server" icon of your project info box to view the Server details page.
 
   ![Deploy projects page](deploy-projects.png)  
   _Figure 13. Deploy projects page._
@@ -103,7 +103,7 @@ This tutorial itself should take about 15 minutes, and once completed you will h
   ![ GitHub repository settings - Webhooks & services](github-settings-webhook.png)  
   _Figure 17. GitHub repository settings - Webhooks & services._
 
-10. Paste the URL that you copied from Deploy, choose "application/x-www-form-urlencoded" in the "Content type" drop-down menu and then press the "Add Webhook button".
+10. Paste the URL that you copied from your Deploy project server settings, choose "application/x-www-form-urlencoded" in the "Content type" drop-down menu and then press the "Add Webhook button".
 
   ![GitHub repository settings - Webhooks & services information updated.](github-settings-webhook-entered.png)  
   _Figure 18. GitHub repository settings - Webhooks & services information updated._
@@ -111,13 +111,15 @@ This tutorial itself should take about 15 minutes, and once completed you will h
   ![itHub webhook information saved](github-webhook-added.png)  
   _Figure 19. GitHub webhook information saved._
 
-Congratulations! With the above steps completed you now have a Grav site which you can run and test locally (using MAMP), and with _only one click_ in the GitHub Desktop application have any changed local site files updated in your GitHub repository and have them automatically pushed to your Web server hosting your live site.
+Congratulations! With the above steps completed you now have a Grav site which you can run and test locally (using MAMP), and with _only one click_ in the GitHub Desktop application have any changed local site files updated in your GitHub repository and then have them automatically pushed to your Web server hosting your Grav site.
 
   ![ GitHub Desktop repository changes screen](github-desktop-repository-sync.png)  
   _Figure 19. GitHub Desktop repository changes screen. When any changes are made they will be displayed on the above screen and will be pushed to GitHub when the "Commit and Sync master" button is pressed._
 
-Students can also now make suggested changes to your Grav site via GitHub or GitHub repository file links provided in your Grav site (see the bottom of this example page at [http://cmpt-363-153.hibbittsdesign.com/resources](http://cmpt-363-153.hibbittsdesign.com/resources)). You can press the "Sync" button (which replaces the "Publish" button you previously used) in the GitHub Desktop client to also download any changes made to the GitHub repository down to your own computer.
+Students can also now make suggested changes to your Grav site via GitHub or GitHub repository file links provided in your Grav site (see the bottom of this example page at [http://cmpt-363-153.hibbittsdesign.com/resources](http://cmpt-363-153.hibbittsdesign.com/resources)).
 
-  Interested in learning even more about using Grav with GitHub? Check out these two super-informative posts on the Grav Blog:
-  * [Grav Development with GitHub - Part 1](http://getgrav.org/blog/developing-with-github-part-1)
-  * [Grav Development with GitHub - Part 2](http://getgrav.org/blog/developing-with-github-part-2)
+You can press the GitHub Desktop client "Sync" button (which replaces the "Publish" button you previously used) in the GitHub Desktop client to also download any changes made to the GitHub repository down to your own computer.
+
+Interested in learning even more about using Grav with GitHub? Check out these two super-informative posts on the Grav Blog:
+* [Grav Development with GitHub - Part 1](http://getgrav.org/blog/developing-with-github-part-1)
+* [Grav Development with GitHub - Part 2](http://getgrav.org/blog/developing-with-github-part-2)
