@@ -85,7 +85,7 @@ This tutorial should take about 15 minutes, and once completed you will have an 
   ![Deploy projects page](deploy-projects.png)  
   _Figure 13. Deploy projects page._
 
-9. Next, on the Server details page press the "Pencil" (Edit) icon.
+9. Next, on the Server details page press the pencil (edit) icon.
 
   ![Deploy servers page](deploy-servers.png)  
   _Figure 14. Deploy servers page._
