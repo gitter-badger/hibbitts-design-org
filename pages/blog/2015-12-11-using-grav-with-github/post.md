@@ -9,11 +9,13 @@ taxonomy:
         - GitHub
         - GravCMS
         - FlatFileCMS
+        - Deploy
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : Using Grav with GitHub Desktop and Deploy
     'twitter:description' : How to use Grav with GitHub Desktop and Deploy.
+    'twitter:image' : http://hibbittsdesign.org/user/pages/blog/2015-12-11-using-grav-with-github/github-desktop-welcome-1.png
 ---
 
 As a modern flat-file CMS, [Grav](http:getgrav.org) can take full advantage of today's ecosystem of open and collaborative editing services, such as [GitHub](http://github.com) or [GitLab](http://gitlab.com). In this article we will look at how to easily use Grav with GitHub and the automatic deployment service [Deploy](http://www.deployhq.com) to result in a very efficient, open and collaborative workflow. No scripting or command line interactions will be required.
@@ -113,8 +115,8 @@ This tutorial should take about 15 minutes, and once completed you will have an 
 
 Congratulations! With the above steps completed you now have a Grav site which you can run and test locally (using MAMP), and with _only one click_ in the GitHub Desktop application have any changed local site files updated in your GitHub repository and then have them automatically pushed to your Web server hosting your Grav site. In my experience, I can make an update to my Grav site and sync changes to GitHub for automatic deployment to my Web server in as little as 30 seconds.
 
-  ![ GitHub Desktop repository changes screen](github-desktop-repository-sync.png)  
-  _Figure 19. GitHub Desktop repository changes screen. When any changes are detected they will be displayed on this screen and can be pushed to GitHub when the "Commit and Sync master" button is pressed._
+  ![ GitHub Desktop repository changes screen](github-desktop-changes-detected.png)  
+  _Figure 19. GitHub Desktop main window. When any changes are detected they will be displayed on this screen and can be pushed to GitHub when the "Commit and Sync master" button is pressed._
 
 Students can also now make suggested changes to your Grav site via GitHub or GitHub repository file links provided in your Grav site (see the bottom of this example page at [http://cmpt-363-153.hibbittsdesign.com/resources](http://cmpt-363-153.hibbittsdesign.com/resources)). GitHub will provide an excellent view of proposed changes, which you can immediately accept or start a further discussion about these possible changes with the student submitting them.
 
