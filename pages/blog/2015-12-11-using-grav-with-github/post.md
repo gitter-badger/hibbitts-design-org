@@ -20,7 +20,7 @@ metadata:
 
 As a modern flat-file CMS, [Grav](http:getgrav.org) can take full advantage of today's ecosystem of open and collaborative editing services, such as [GitHub](http://github.com) or [GitLab](http://gitlab.com). In this article we will look at how to easily use Grav with GitHub Desktop and the automatic deployment service [Deploy](http://www.deployhq.com) to result in a very efficient, open and collaborative workflow. No scripting or command line interactions will be required, I promise.
 
-As an educator, the use of a service such as GitHub to store (not host) an online course companion is very appealing as not only does it support an open practice but also enables students to control the very learning environment that they are using. I first described this workflow in my earlier article [My Dream Workflow as an Instructor](../my-dream-workflow-as-an-instructor).
+As an educator, the use of a service such as GitHub to store an online course companion is very appealing as not only does it support an open practice but also enables students to control the very learning environment that they are using. I first described this workflow in my earlier article [My Dream Workflow as an Instructor](../my-dream-workflow-as-an-instructor).
 
 Before you start this tutorial I suggest you first get your Grav site up and running locally using [MAMP](https://www.mamp.info/en/), as outlined in [Running Grav Locally with MAMP](../running-grav-locally-with-mamp). By utilizing MAMP you will then have a complete, local version of your course companion site running on your computer that can be easily updated and then deployed to your Web server.
 
