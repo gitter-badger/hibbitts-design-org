@@ -36,12 +36,12 @@ This tutorial itself should take about 15 minutes, and once completed you will h
   ![GitHub Desktop connect to GitHub](github-desktop-welcome-2.png)  
   _Figure 2. GitHub Desktop connect to GitHub._
 
-3. Assuming you already have a Grav site present on your computer (and preferably one that is already viewable via MAMP), you next need to create a GitHub Repository of your site. It is recommended that if this is the first time you are using GitHub with Grav you add the entire Grav site to GitHub, but other approaches are possible such as only storing the "user" folder.
+3. Assuming you already have a Grav site present on your computer (and preferably one that is already viewable via MAMP), you next need to create a GitHub Repository of your site. It is recommended that if this is the first time you are using GitHub with Grav that you add the entire Grav site to GitHub, but other approaches are possible such as only storing the "user" folder (see the provided additional resources at the end of this article).
 
   ![GitHub Desktop main window](github-desktop-main-window.png)  
   _Figure 3. GitHub Desktop main window, displaying the included tutorial._
 
-  Press the "Add a Repository" button (plus sign in the upper-right) in the client, select the "Add" tab, and then use the "Choose..." button to select the folder containing your entire Grav site.
+  Press the "Add a Repository" button (plus sign in the upper-right) in the GitHub Desktop client, select the "Add" tab within the displayed dialog box, and then press the "Choose..." button to select the folder containing your _entire_ Grav site.
 
   ![GitHub Desktop add Repository dialog](github-desktop-add-repository-dialog.png)  
   _Figure 4. GitHub Desktop add Repository dialog._
@@ -49,12 +49,12 @@ This tutorial itself should take about 15 minutes, and once completed you will h
   ![GitHub Desktop local Repository added](github-desktop-local-repository-added.png)  
   _Figure 5. GitHub Desktop local Repository added._
 
-4. You are now ready for your first commit to your new GitHub repository. Whenever you make a commit you will need to include a brief text summary - as this is your first commit enter the text "First commit." into the Summary text box, and then press the button "Commit and Sync master".
+4. You are now ready for the first commit to your new GitHub repository. Whenever you make a commit you will need to include a brief text summary - as this is your first commit enter the text "First commit." into the "Summary" text box, and then press the button "Commit and Sync master".
 
   ![GitHub Desktop first commit](github-desktop-first-commit.png)  
   _Figure 6.  GitHub Desktop first commit._
 
-5. As this is your first commit to your repository, the "Publish" button will need to be pressed to actually perform the file transfers. Once the "Publish" button is pressed enter a short description for your repository and select which GitHub account you want to publish to (if you have multiple accounts).
+5. Since this is your first commit to your repository, the "Publish" button will need to be also pressed to actually perform the actual file updates. Once the "Publish" button is pressed enter a short description for your new GitHub repository and select which GitHub account you want to publish to (if you have multiple accounts).
 
   ![GitHub Desktop repository details](github-desktop-publish-repository.png)  
   _Figure 7. GitHub Desktop - repository details._
@@ -65,7 +65,7 @@ This tutorial itself should take about 15 minutes, and once completed you will h
   ![GitHub Desktop - repository published](github-desktop-repository-published.png)  
   _Figure 9. GitHub Desktop repository published._
 
-6. Once this process is complete you should now be able to view your Grav site files on GitHub - do this now to ensure that everything went as expected. If you have any issues during this process you may find more information at [https://help.github.com/desktop/](https://help.github.com/desktop/).
+6. Once this process is complete you should now be able to view your Grav site files stored on GitHub - please do this now to ensure that everything went as expected. If you have any issues during this process you may find more detailed support information at [https://help.github.com/desktop/](https://help.github.com/desktop/).
 
   ![GitHub repository of your Grav site](github-repository.png)  
   _Figure 10. GitHub repository of your Grav site._
