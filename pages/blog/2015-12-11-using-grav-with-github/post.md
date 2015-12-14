@@ -1,5 +1,5 @@
 ---
-title: 'Using Grav with GitHub (and Deploy)'
+title: 'Using Grav with GitHub Desktop (and Deploy)'
 slug: using-grav-with-github-and-deploy
 date: '13-12-2015 00:00'
 published: true
@@ -12,8 +12,8 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : Using Grav with GitHub and Deploy
-    'twitter:description' : How to use Grav with GitHub and Deploy.
+    'twitter:title' : Using Grav with GitHub Desktop and Deploy
+    'twitter:description' : How to use Grav with GitHub Desktop and Deploy.
 ---
 
 As a modern flat-file CMS, [Grav](http:getgrav.org) can take full advantage of today's ecosystem of open and collaborative editing services, such as [GitHub](http://github.com) or [GitLab](http://gitlab.com). In this article we will look at how to easily use Grav with GitHub and the automatic deployment service [Deploy](http://www.deployhq.com) to result in a very efficient, open and collaborative workflow. No scripting or command line interactions will be required.
