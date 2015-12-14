@@ -1,7 +1,7 @@
 ---
 title: 'Using Grav with GitHub Desktop (and Deploy)'
 slug: using-grav-with-github-and-deploy
-date: '13-12-2015 00:00'
+date: '14-12-2015 00:00'
 published: true
 taxonomy:
     tags:
