@@ -56,8 +56,8 @@ This tutorial should take about 15 minutes, and once completed you will have an 
 
 5. Since this is your first commit to your repository, the "Publish" button (upper-left of main window) will need to be also pressed to actually perform the actual file updates. Once the "Publish" button is pressed enter a short description for your new GitHub repository and then select which GitHub account you want to publish to (if you have multiple accounts).
 
-  ![GitHub Desktop repository details](github-desktop-publish-repository.png)  
-  _Figure 7. GitHub Desktop - repository details._
+  ![GitHub Desktop repository details dialog box](github-desktop-publish-repository.png)  
+  _Figure 7. GitHub Desktop - repository details dialog box._
 
   ![GitHub Desktop publishing the repository](github-desktop-publishing-the-repository.png)  
   _Figure 8. GitHub Desktop publishing the repository._
