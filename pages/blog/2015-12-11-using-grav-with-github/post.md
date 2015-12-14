@@ -41,7 +41,7 @@ This tutorial should take about 15 minutes, and once completed you will have an 
   ![GitHub Desktop main window](github-desktop-main-window.png)  
   _Figure 3. GitHub Desktop main window, displaying the included tutorial._
 
-  Press the "Add a Repository" button (plus sign in the upper-right) in the GitHub Desktop client, select the "Add" tab within the displayed dialog box, and then press the "Choose..." button to select the folder containing your _entire_ Grav site.
+  Press the "Add a Repository" button (upper-right plus(+) sign in the main window) in the GitHub Desktop client, select the "Add" tab within the displayed dialog box, and then press the "Choose..." button to select the folder containing your _entire_ Grav site.
 
   ![GitHub Desktop add Repository dialog](github-desktop-add-repository-dialog.png)  
   _Figure 4. GitHub Desktop add Repository dialog._
@@ -49,12 +49,12 @@ This tutorial should take about 15 minutes, and once completed you will have an 
   ![GitHub Desktop local Repository added](github-desktop-local-repository-added.png)  
   _Figure 5. GitHub Desktop local Repository added._
 
-4. You are now ready for the first commit to your new GitHub repository. Whenever you make a commit you will need to include a brief text summary - as this is your first commit enter the text "First commit." into the "Summary" text box, and then press the button "Commit and Sync master".
+4. You are now ready for the first commit to your new GitHub repository. Whenever you make a commit you will need to include a brief text summary - as this is your first commit enter the text "First commit." into the "Summary" text box, and then press the button "Commit to master".
 
   ![GitHub Desktop first commit](github-desktop-first-commit.png)  
   _Figure 6.  GitHub Desktop first commit._
 
-5. Since this is your first commit to your repository, the "Publish" button will need to be also pressed to actually perform the actual file updates. Once the "Publish" button is pressed enter a short description for your new GitHub repository and then select which GitHub account you want to publish to (if you have multiple accounts).
+5. Since this is your first commit to your repository, the "Publish" button (upper-left of main window) will need to be also pressed to actually perform the actual file updates. Once the "Publish" button is pressed enter a short description for your new GitHub repository and then select which GitHub account you want to publish to (if you have multiple accounts).
 
   ![GitHub Desktop repository details](github-desktop-publish-repository.png)  
   _Figure 7. GitHub Desktop - repository details._
