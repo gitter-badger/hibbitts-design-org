@@ -80,7 +80,7 @@ This tutorial should take about 15 minutes, and once completed you will have an 
   ![Deploy account welcome page](deploy-welcome.png)  
   _Figure 12. Deploy account welcome page._
 
-8. With your first Deploy project created and configured, you will need to get the Webhook URL needed to be added to your GitHub repository for automatic deployment of any changed site files. Press on the "Server" icon of your project info box to view the Server details page.
+8. With your first Deploy project created and configured, you will need to get the Webhook URL needed to be added to your GitHub repository for automatic deployment of any changed site files. Press on the "Server" button of your project info box to view the Server details page.
 
   ![Deploy projects page](deploy-projects.png)  
   _Figure 13. Deploy projects page._
