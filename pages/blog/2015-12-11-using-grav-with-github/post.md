@@ -1,7 +1,7 @@
 ---
 title: 'Using Grav with GitHub (and Deploy) - DRAFT ONLY'
 slug: using-grav-with-github-and-deploy
-date: '11-12-2015 00:00'
+date: '13-12-2015 00:00'
 published: true
 taxonomy:
     tags:
