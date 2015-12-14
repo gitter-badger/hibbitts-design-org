@@ -118,6 +118,6 @@ Congratulations! With the above steps completed you now have a Grav site which y
 
 Students can also now make suggested changes to your Grav site via GitHub or GitHub repository file links provided in your Grav site (see the bottom of this example page at [http://cmpt-363-153.hibbittsdesign.com/resources](http://cmpt-363-153.hibbittsdesign.com/resources)). You can press the "Sync" button (which replaces the "Publish" button you previously used) in the GitHub Desktop client to also download any changes made to the GitHub repository down to your own computer.
 
-  Interested in learning even more about using Grav with GitHub? Check out these two posts on the [Grav](http://getgrav.org) Blog:
+  Interested in learning even more about using Grav with GitHub? Check out these two posts on the Grav Blog:
   * [Grav Development with GitHub - Part 1](http://getgrav.org/blog/developing-with-github-part-1)
   * [Grav Development with GitHub - Part 2](http://getgrav.org/blog/developing-with-github-part-2)
