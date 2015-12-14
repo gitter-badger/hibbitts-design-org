@@ -95,7 +95,7 @@ This tutorial should take about 15 minutes, and once completed you will have an 
   ![Deploy edit server page](deploy-edit-server.png)  
   _Figure 15. Deploy edit server page._
 
-9. With the automatic deployment URL copied to your clipboard, we now need to add that URL as a Webhook to GitHub. Navigate to your GitHub Repository, press "Settings" and then press "Webhooks & services".
+9. With the automatic deployment URL copied to your clipboard, you now need to add that URL as a Webhook to GitHub. Navigate to your GitHub Repository, press "Settings" and then press "Webhooks & services".
 
   ![GitHub repository settings](github-settings.png)  
   _Figure 16. GitHub repository settings._
