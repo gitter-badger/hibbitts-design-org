@@ -51,7 +51,7 @@ This tutorial should take about 15 minutes, and once completed you will have an 
   ![GitHub Desktop local Repository added](github-desktop-local-repository-added.png)  
   _Figure 5. GitHub Desktop local Repository added._
 
-4. You are now ready for the first commit to your new GitHub repository. Whenever you make a commit you will need to include a brief text summary - as this is your first commit enter the text "First commit." into the "Summary" text box, and then press the button "Commit to master".
+4. You are now ready for the first commit to your new GitHub repository. Whenever you make a commit you will need to include a brief text summary - as this is your first commit enter the text "First commit." into the "Summary" text box (above the "Description" text field), and then press the button "Commit to master".
 
   ![GitHub Desktop first commit](github-desktop-first-commit.png)  
   _Figure 6.  GitHub Desktop first commit._
