@@ -1,8 +1,8 @@
 ---
-title: 'Using Grav with GitHub'
-slug: using-grav-with-github
+title: 'Using Grav with GitHub (and Deploy) - DRAFT ONLY'
+slug: using-grav-with-github-and-deploy
 date: '11-12-2015 00:00'
-published: false
+published: true
 taxonomy:
     tags:
         - OpenPractice
@@ -12,78 +12,112 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : Using Grav with GitHub
-    'twitter:description' : How to use Grav with GitHub.
+    'twitter:title' : Using Grav with GitHub and Deploy
+    'twitter:description' : How to use Grav with GitHub and Deploy.
 ---
 
-As a flat-file CMS, Grav can take advantage of today's ecosystem of open and collaborative editing environments, such as GitHub or GitLab. In this brief article we will look at how to easily use GitHub with Grav to result in a very efficient, open and collaborative workflow.
+As a flat-file CMS, [Grav](http:getgrav.org) can take advantage of today's ecosystem of open and collaborative editing environments, such as [GitHub](http://github.com) or [GitLab](http://gitlab.com). In this article we will look at how to easily use Grav with GitHub and an automatic deployment service such as [Deploy](http://www.deployhq.com) to result in a very efficient, open and collaborative workflow. No scripting or command line interactions will be required.
 
-As an educator the use of GitHub to store (not host) an online course companion is very appealing, as not only does it support an open practice but also enables students to directly contribute to the very learning environment that they are using. I first described this workflow in my earlier article [My Dream Workflow as an Instructor](../my-dream-workflow).
+As an educator, the use of GitHub to store (not host) an online course companion is very appealing as not only does it support an open practice but also enables students to control the very learning environment that they are using! I first described this workflow in my earlier article [My Dream Workflow as an Instructor](../my-dream-workflow).
 
-Before you start this tutorial I suggest you first get your Grav site running locally using MAMP, as described in my earlier article [Running Grav Locally with MAMP](../running-grav-locally-with-mamp)
+Before you start this tutorial I suggest you first get your Grav site up and running locally using [MAMP](https://www.mamp.info/en/), as outlined in [Running Grav Locally with MAMP](../running-grav-locally-with-mamp).
+
+This tutorial itself should take about 15 minutes, and once completed you will have an efficient, open, and collaborative workflow with working with your hosted Grav site!
 
 **Step-by-step instructions**
 
 1. If you do not done so already, [sign up for a GitHub account](https://github.com/join).
 
-2. Download the [GitHub Desktop](https://desktop.github.com/) client for your computer (Mac or PC), and once it is installed launch the application and enter your GitHub account credentials.
+2. Download the [GitHub Desktop](https://desktop.github.com/) client for your computer (Mac or PC), and once it is installed launch the application and proceed with the setup process to enter your GitHub account credentials.
 
-  ![ GitHub Desktop on the Mac  - Setup Welcome](github-desktop-welcome-1.png)  
-  _Figure 1. GitHub Desktop on the Mac - Setup Welcome._
+  ![GitHub Desktop setup welcome](github-desktop-welcome-1.png)  
+  _Figure 1. GitHub Desktop setup welcome._
 
-  ![ GitHub Desktop on the Mac  - Setup Connect to GitHub](github-desktop-welcome-2.png)  
-  _Figure 2. GitHub Desktop on the Mac - Setup Connect to GitHub._
+  ![GitHub Desktop connect to GitHub](github-desktop-welcome-2.png)  
+  _Figure 2. GitHub Desktop connect to GitHub._
 
-3. Assuming you already have a Grav site present on your computer (and ideally one that is already viewable via MAMP), you next need to create a GitHub Respository of your site. It is recommended that if this is the first time you are using GitHub with Grav you add the entire Grav site to GitHub, but other approaches are possible.
+3. Assuming you already have a Grav site present on your computer (and preferably one that is already viewable via MAMP), you next need to create a GitHub Repository of your site. It is recommended that if this is the first time you are using GitHub with Grav you add the entire Grav site to GitHub, but other approaches are possible such as only storing the "user" folder.
 
-  ![ GitHub Desktop main window](github-desktop-main-window)  
-  _Figure 3. GitHub Desktop main window._
+  ![GitHub Desktop main window](github-desktop-main-window.png)  
+  _Figure 3. GitHub Desktop main window, displaying the included tutorial._
 
-  Press the "Create & Add Repository" button (plus sign in the upper-right) in the client, select the "Add" tab, and then use the "Choose..." button to select the folder containing your entire Grav site.
+  Press the "Add a Repository" button (plus sign in the upper-right) in the client, select the "Add" tab, and then use the "Choose..." button to select the folder containing your entire Grav site.
 
-  ![ Adding a repository](add-repository-dialog.png)  
-  _Figure 4. Add respository dialog._
+  ![GitHub Desktop add Repository dialog](github-desktop-add-repository-dialog.png)  
+  _Figure 4. GitHub Desktop add Repository dialog._
 
-4. Before we make our first commit to GitHub, a ".gitignore" file should be created in the main (root) folder of your site. This will tell the GitHub Desktop client to ignore various unneeded files upon every sync to GitHub.
+  ![GitHub Desktop local Repository added](github-desktop-local-repository-added.png)  
+  _Figure 5. GitHub Desktop local Repository added._
 
-  Using the code editor of your choice (I recommend Atom by GitHub or Adobe Brackets) copy and paste the following into your ".gitignore" located in themain (root) folder of your site:
+4. You are now ready for your first commit to your new GitHub repository. Whenever you make a commit you will need to include a brief text summary - as this is your first commit enter the text "First commit." into the Summary text box, and then press the button "Commit and Sync master".
 
-    ```
-    # Grav Specific  
-    .sass-cache
-    composer.lock
-    cache/*
-    assets/*
-    logs/*
-    images/*
-    user/data/*
+  ![GitHub Desktop first commit](github-desktop-first-commit.png)  
+  _Figure 6.  GitHub Desktop first commit._
 
-    # OS Generated
-    .DS_Store*
-    ehthumbs.db
-    Icon?
-    Thumbs.db
-    *.swp
-    ```
+5. As this is your first commit to your repository, the "Publish" button will need to be pressed to actually perform the file transfers. Once the "Publish" button is pressed enter a short description for your repository and select which GitHub account you want to publish to (if you have multiple accounts).
 
-5. You are now ready for your first commit to your new GitHub repository. Whenever you make a commit you will need to include a brief text summary - as this is your first commit enter the text "First commit." into the Summary text box, and then press the button "Commit and Sync master".
+  ![GitHub Desktop repository details](github-desktop-publish-repository.png)  
+  _Figure 7. GitHub Desktop - repository details._
 
-  ![ First commit](first-commit.png)  
-  _Figure 4. First commit._
+  ![GitHub Desktop publishing the repository](github-desktop-publishing-the-repository.png)  
+  _Figure 8. GitHub Desktop publishing the repository._
 
-6. Publish button and dialog?
+  ![GitHub Desktop - repository published](github-desktop-repository-published.png)  
+  _Figure 9. GitHub Desktop repository published._
 
-7. Once this process is complete you should now be able to view your Grav site files on GitHub. Take a look now to verify this.
+6. Once this process is complete you should now be able to view your Grav site files on GitHub - do this now to ensure that everything went as expected. If you have any issues during this process you may find more information at [https://help.github.com/desktop/](https://help.github.com/desktop/).
 
-8. To maximize the benefit of using GitHub to store your Grav site files, you can use various tools and techniques to trigger an automatic update of changed GitHub files over to your live site. To make this step as easy as possible, I recommend using one of the various Web services that provide this functionality - my current favorite it [Deploy](deployhq.com).
+  ![GitHub repository of your Grav site](github-repository.png)  
+  _Figure 10. GitHub repository of your Grav site._
 
-  ![ Deploy website](deploy.png)  
-  _Figure 5. Deploy website._
+7. To maximize the benefit of using GitHub to store your Grav site files, you can use various tools and techniques to trigger an automatic deployment of any changed GitHub files to your live site hosted on a Web server. To make this step as easy as possible, I recommend using one of the various Web services that provide this functionality - such as [Deploy](deployhq.com).
 
-  Head over to [Deploy](deployhq.com), and sign-up for free account (one project, up to ten commits per day). Once you have signed up then create a project with the needed details of your web server location/credentials and then your GitHub repository information. Detailed documentation for these steps are available on the [Deploy support area](https://support.deployhq.com/).
+  ![Deploy website homepage](deploy.png)  
+  _Figure 11. Deploy website homepage._
 
-Congratulations, if you've been able to complete all the above steps you now have a Grav site which you can run and test locally, and then with one click update your files on GitHub and have them automatically pushed to your Web server. Students can also now make suggested changes to your Grav site via GitHub.
+  Head over to [Deploy](deployhq.com), and sign-up for free account (one project, up to ten commits per day). Once you have signed up then create a new project with the needed details of your GitHub repository information and your web server credentials.
 
-  Interested in learning even more about using Grav with GitHub? Check out these two posts on the Grav Blog:
+  ![Deploy account welcome page](deploy-welcome.png)  
+  _Figure 12. Deploy account welcome page._
+
+8. Once you have created your first Deploy project, you will need to get the Webhook URL needed to be added to GitHub for automatic deployment of any changed site files. Press on the "Server" icon of your project info box to view the Server details page.
+
+  ![Deploy projects page](deploy-projects.png)  
+  _Figure 13. Deploy projects page._
+
+9. Next, on the Server details page press the "Pencil" (Edit) icon.
+
+  ![Deploy servers page](deploy-servers.png)  
+  _Figure 14. Deploy servers page._
+
+10. On the far right-hand side of the "Edit Server" page the URL for "Automatic Deployments" is displayed - select all of the text of this URL and then copy to your clipboard.
+
+  ![Deploy edit server page](deploy-edit-server.png)  
+  _Figure 15. Deploy edit server page._
+
+9. With the automatic deployment URL copied to your clipboard, we now need to add that URL as a Webhook to GitHub. Navigate to your GitHub Repository, press "Settings" and then press "Webhooks & services".
+
+  ![GitHub repository settings](github-settings.png)  
+  _Figure 16. GitHub repository settings._
+
+  ![ GitHub repository settings - Webhooks & services](github-settings-webhook.png)  
+  _Figure 17. GitHub repository settings - Webhooks & services._
+
+10. Paste the URL that you copied from Deploy, choose "application/x-www-form-urlencoded" in the "Content type" drop-down menu and then press the "Add Webhook button".
+
+  ![GitHub repository settings - Webhooks & services information updated.](github-settings-webhook-entered.png)  
+  _Figure 18. GitHub repository settings - Webhooks & services information updated._
+
+  ![itHub webhook information saved](github-webhook-added.png)  
+  _Figure 19. GitHub webhook information saved._
+
+Congratulations! With the above steps completed you now have a Grav site which you can run and test locally (using MAMP), and with _only one click_ in the GitHub Desktop application have any changed local site files updated in your GitHub repository and have them automatically pushed to your Web server hosting your live site.
+
+  ![ GitHub Desktop repository changes screen](github-desktop-repository-sync.png)  
+  _Figure 19. GitHub Desktop repository changes screen. When any changes are made they will be displayed on the above screen and will be pushed to GitHub when the "Commit and Sync master" button is pressed._
+
+Students can also now make suggested changes to your Grav site via GitHub or GitHub repository file links provided in your Grav site (see the bottom of this example page at [http://cmpt-363-153.hibbittsdesign.com/resources](http://cmpt-363-153.hibbittsdesign.com/resources)). You can press the "Sync" button (which replaces the "Publish" button you previously used) in the GitHub Desktop client to also download any changes made to the GitHub repository down to your own computer.
+
+  Interested in learning even more about using Grav with GitHub? Check out these two posts on the [Grav](http://getgrav.org) Blog:
   * [Grav Development with GitHub - Part 1](http://getgrav.org/blog/developing-with-github-part-1)
   * [Grav Development with GitHub - Part 2](http://getgrav.org/blog/developing-with-github-part-2)
