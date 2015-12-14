@@ -90,7 +90,7 @@ This tutorial should take about 15 minutes, and once completed you will have an 
   ![Deploy servers page](deploy-servers.png)  
   _Figure 14. Deploy servers page._
 
-10. On the far right-hand side of the "Edit Server" page the URL for "Automatic Deployments" is displayed - select all of the text of this URL and then copy to your clipboard.
+10. On the far right-hand side of the "Edit Server" page the URL for "Automatic Deployments" is displayed - select the text of this URL and then copy to your clipboard.
 
   ![Deploy edit server page](deploy-edit-server.png)  
   _Figure 15. Deploy edit server page._
