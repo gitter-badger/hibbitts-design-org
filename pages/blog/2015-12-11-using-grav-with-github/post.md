@@ -22,7 +22,7 @@ As a modern flat-file CMS, [Grav](http:getgrav.org) can take full advantage of t
 
 As an educator, the use of GitHub to store (not host) an online course companion is very appealing as not only does it support an open practice but also enables students to control the very learning environment that they are using. I first described this workflow in my earlier article [My Dream Workflow as an Instructor](../my-dream-workflow-as-an-instructor).
 
-Before you start this tutorial I suggest you first get your Grav site up and running locally using [MAMP](https://www.mamp.info/en/), as outlined in [Running Grav Locally with MAMP](../running-grav-locally-with-mamp).
+Before you start this tutorial I suggest you first get your Grav site up and running locally using [MAMP](https://www.mamp.info/en/), as outlined in [Running Grav Locally with MAMP](../running-grav-locally-with-mamp). By utilizing MAMP you will then have a complete, local version of your course companion site running on your computer that can be easily updated and then deployed to your Web server.
 
 This tutorial should take about 15 minutes, and once completed you will have an efficient, open, and collaborative workflow for yourself and _your students_!
 
