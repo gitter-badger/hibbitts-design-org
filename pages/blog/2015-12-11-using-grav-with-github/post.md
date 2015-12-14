@@ -14,7 +14,7 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : Using Grav with GitHub Desktop and Deploy
-    'twitter:description' : How to use Grav with GitHub Desktop and Deploy.
+    'twitter:description' : A step-by-step guide on how to use Grav with GitHub Desktop and Deploy.
     'twitter:image' : http://hibbittsdesign.org/user/pages/blog/2015-12-11-using-grav-with-github/github-desktop-welcome-1.png
 ---
 
