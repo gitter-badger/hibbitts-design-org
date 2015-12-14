@@ -22,7 +22,7 @@ As an educator, the use of GitHub to store (not host) an online course companion
 
 Before you start this tutorial I suggest you first get your Grav site up and running locally using [MAMP](https://www.mamp.info/en/), as outlined in [Running Grav Locally with MAMP](../running-grav-locally-with-mamp).
 
-This tutorial itself should take about 15 minutes, and once completed you will have an efficient, open, and collaborative workflow for yourself and _your students_!
+This tutorial should take about 15 minutes, and once completed you will have an efficient, open, and collaborative workflow for yourself and _your students_!
 
 **Step-by-step instructions**
 
