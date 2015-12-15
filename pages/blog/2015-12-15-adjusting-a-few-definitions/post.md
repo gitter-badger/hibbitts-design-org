@@ -17,7 +17,7 @@ metadata:
     'twitter:description' : A collection of a few recent tweets clarifying my definitions of a flipped-LMS and an open & collaborative learning platform.
 ---
 
-_While trying to visualize my open and collaborative workflow for a flipped-LMS approach, it's become apparent that I am looking at two distinct, though related, models. For my situation, I use the flat-file CMS [Grav](http://getgrav.org) to support an open and collaborative platform when using a flipped-LMS approach._
+_While trying to visualize my open and collaborative workflow for a flipped-LMS approach, it's become apparent that I am looking at two distinct, though related, models._
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">An open and collaborative learning platform enables both students and instructors to contribute directly to their shared online environment.</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/676865298125819904">December 15, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -27,3 +27,5 @@ _While trying to visualize my open and collaborative workflow for a flipped-LMS 
 <br>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Looks like I&#39;ve got two concepts I need to visualize:&#10;✅Flipped-LMS approach&#10;✅Open and collaborative learning platform (using GitHub &amp; Grav)</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/676838406123458560">December 15, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+For my situation, I use the flat-file CMS [Grav](http://getgrav.org) to support an open and collaborative platform when using a flipped-LMS approach.
