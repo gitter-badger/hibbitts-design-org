@@ -1,6 +1,6 @@
 ---
-title: "A Few Thoughts About... Some Recent (Re)defintions"
-slug: a-few-thoughts-about-flipped-lms-and-open-and-collaborative-learning-platforms
+title: "A Few Thoughts About... Some Recent (Re)definitions"
+slug: a-few-thoughts-about-some-recent-re-definitions
 date: 12/15/2015
 comments: true
 published: true
