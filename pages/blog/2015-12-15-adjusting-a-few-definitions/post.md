@@ -1,6 +1,6 @@
 ---
-title: "A Few Thoughts About... Some Recent (Re)definitions"
-slug: a-few-thoughts-about-some-recent-re-definitions
+title: "A Few Thoughts About... Refining Some Recent Definitions"
+slug: a-few-thoughts-about-refining-some-recent-definitions
 date: 12/15/2015
 comments: true
 published: true
