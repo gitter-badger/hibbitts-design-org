@@ -28,4 +28,4 @@ _While trying to visualize my open and collaborative workflow for a flipped-LMS 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Looks like I&#39;ve got two concepts I need to visualize:&#10;✅Flipped-LMS approach&#10;✅Open and collaborative learning platform (using GitHub &amp; Grav)</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/676838406123458560">December 15, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
-For my situation, I use the flat-file CMS [Grav](http://getgrav.org) to support an open and collaborative platform when using a flipped-LMS approach.
+For my situation, I use the flat-file CMS [Grav](http://getgrav.org) to provide an open and collaborative platform when using a flipped-LMS approach.
