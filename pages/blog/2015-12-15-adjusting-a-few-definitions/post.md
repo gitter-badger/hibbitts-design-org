@@ -7,7 +7,8 @@ published: true
 taxonomy:
     tags:
         - Flipped-LMS
-        - OpenPractice
+        - GravCM
+        - FlatFileCMS
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
@@ -15,7 +16,7 @@ metadata:
     'twitter:description' : A collection of a few recent tweets about redefining two definitions.
 ---
 
-_While trying to visualize my open and collaborative workflow for a flipped-LMS approach, it's become apparent that I am looking at two distinct, though related, models. For my situation, I use [Grav CMS](http://getgrav.org) to support an open and collaborative platform when using a flipped-LMS approach._
+_While trying to visualize my open and collaborative workflow for a flipped-LMS approach, it's become apparent that I am looking at two distinct, though related, models. For my situation, I use the flat-file CMS [Grav](http://getgrav.org) to support an open and collaborative platform when using a flipped-LMS approach._
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">An open and collaborative learning platform enables both students and instructors to contribute directly to their shared online environment.</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/676865298125819904">December 15, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
