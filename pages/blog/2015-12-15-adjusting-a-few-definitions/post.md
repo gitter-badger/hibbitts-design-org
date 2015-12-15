@@ -15,7 +15,7 @@ metadata:
     'twitter:description' : A collection of a few recent tweets about redefining two definitions.
 ---
 
-_While trying to visualize my open and collaborative workflow for a flipped-LMS approach, it's become apparent that I am actually looking at two distinct, though related, models. For my situation I use [Grav CMS](http://getgrav.org) as an open and collaborative platform which uses a flipped-LMS approach.
+_While trying to visualize my open and collaborative workflow for a flipped-LMS approach, it's become apparent that I am actually looking at two distinct, though related, models. For my situation I use [Grav CMS](http://getgrav.org) as an open and collaborative platform which uses a flipped-LMS approach._
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">An open and collaborative learning platform enables both students and instructors to contribute directly to their shared online environment.</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/676865298125819904">December 15, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
