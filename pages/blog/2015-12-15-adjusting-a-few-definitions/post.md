@@ -9,6 +9,7 @@ taxonomy:
         - Flipped-LMS
         - GravCM
         - FlatFileCMS
+        - OpenPractice
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
