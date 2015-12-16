@@ -14,7 +14,7 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few Thoughts About Flipped-LMS and Open and Collaborative Learning Platforms
-    'twitter:description' : A collection of a few recent tweets clarifying my definitions of a flipped-LMS and an open & collaborative learning platform.
+    'twitter:description' : A collection of a few recent tweets refining my definitions of a flipped-LMS and an open & collaborative learning platform.
 ---
 
 _While trying to visualize my open and collaborative workflow for a flipped-LMS approach, it's become apparent that I am looking at two distinct, though related, models._
