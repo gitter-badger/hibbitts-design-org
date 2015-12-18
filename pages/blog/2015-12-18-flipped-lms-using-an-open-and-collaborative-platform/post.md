@@ -22,8 +22,8 @@ Just in time for the holidays, here is the second iteration of some visualizatio
 * Open and collaborative platform
 * Flipped-LMS approach using an open and collaborative platform
 
-![Flipped-LMS](flipped-lms.png)  
-_Figure 1. Flipped-LMS._
+![Flipped-LMS approach](flipped-lms.png)  
+_Figure 1. Flipped-LMS approach._
 <br><br>
 ![Open and collaborative platform](open-collaborative-platform.png)  
 _Figure 2. Open and collaborative platform._
