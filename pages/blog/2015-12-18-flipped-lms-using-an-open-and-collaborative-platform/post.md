@@ -1,5 +1,5 @@
 ---
-title: 'Visualizing a Flipped-LMS Approach with an Open and Collaborative Platform'
+title: 'Flipped-LMS Approach Using an Open and Collaborative Platform'
 slug: flipped-lms-using-an-open-and-collaborative-platform
 date: '18-12-2015 00:00'
 published: true
@@ -13,14 +13,14 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : Visualizing a Flipped-LMS Approach Using an Open and Collaborative Platform
+    'twitter:title' : Flipped-LMS Approach Using an Open and Collaborative Platform
     'twitter:description' : A set of three visualizations.
 ---
 
 Just in time for the holidays, here is the second iteration of some visualizations I've been working on recently:
 * Flipped-LMS
 * Open and collaborative platform
-* Flipped-LMS approach using an open and collaborative platform
+* Flipped-LMS approach using an open and collaborative platform (where the magic really happens)
 
 ![Flipped-LMS approach](flipped-lms.png)  
 _Figure 1. Flipped-LMS approach._
