@@ -10,6 +10,7 @@ taxonomy:
         - GravCMS
         - FlatFileCMS
         - Deploy
+        - Tutorial
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign

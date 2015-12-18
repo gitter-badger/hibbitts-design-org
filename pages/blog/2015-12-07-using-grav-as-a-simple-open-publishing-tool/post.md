@@ -9,6 +9,7 @@ taxonomy:
         - GitHub
         - GravCMS
         - FlatFileCMS
+        - Tutorial
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
