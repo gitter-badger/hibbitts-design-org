@@ -1,5 +1,5 @@
 ---
-title: 'Visualizations of a Flipped-LMS Using an Open and Collaborative Platform'
+title: 'Visualizing a Flipped-LMS Using an Open and Collaborative Platform'
 slug: flipped-lms-using-an-open-and-collaborative-platform
 date: '18-12-2015 00:00'
 published: true
@@ -13,7 +13,7 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : Visualizations of a Flipped-LMS Using an Open and Collaborative Platform
+    'twitter:title' : Visualizing a Flipped-LMS Using an Open and Collaborative Platform
     'twitter:description' : A set of three visualizations.
 ---
 
