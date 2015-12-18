@@ -7,7 +7,7 @@ published: true
 taxonomy:
     tags:
         - Flipped-LMS
-        - GravCM
+        - GravCMS
         - FlatFileCMS
         - OpenPractice
 metadata:
