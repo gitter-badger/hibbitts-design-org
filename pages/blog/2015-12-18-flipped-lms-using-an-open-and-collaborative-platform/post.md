@@ -34,4 +34,5 @@ _Figure 3. Flipped-LMS approach using an open and collaborative platform._
 
 Interested in exploring a live example of a flipped-LMS approach using an open and collaborative platform? Visit my [SFU](http://www.sfu.ca) CMPT 363 course companion at [http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com/), built with [Grav](http://getgrav.org).
 
-You can also learn more about the super efficient workflow that happens behind-the-scenes in my earlier article [Using Grav with GitHub Desktop (and Deploy)](../using-grav-with-github-and-deploy).
+You can also learn more about the super efficient workflow that happens behind-the-scenes in my earlier article [
+My Dream Workflow as an Instructor)](../my-dream-workflow-as-an-instructor).
