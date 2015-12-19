@@ -46,5 +46,5 @@ It's a good time to also review the experience goals for course instructors that
 
 Interested in exploring a live example of a flipped-LMS course companion? Visit my [SFU](http://www.sfu.ca) CMPT 363 site at [http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com/) and its GitHub file repository at  [https://github.com/paulhibbitts/cmpt-363-153-website/](https://github.com/paulhibbitts/cmpt-363-153-website/).
 
-You can also learn more about the super efficient workflow that happens behind-the-scenes in my earlier article [
+You can learn more about the super efficient workflow that happens behind-the-scenes in my earlier article [
 My Dream Workflow as an Instructor](../my-dream-workflow-as-an-instructor).
