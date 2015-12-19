@@ -38,11 +38,26 @@ As a bonus, here is how I use [Grav](http://getgrav.org), [GitHub](http://github
 
 _Figure 4. Flipped-LMS approach using Grav CMS, GitHub, and Deploy._
 
-It's a good time to also review the experience goals for course instructors that are met with the above approach:
- * Controllable (i.e. manageable)  
- * Pliable (i.e. flexible)  
- * Efficient  
- * Enjoyable (hey, instructors are people too...)  
+It's also a good time to review why we would want to flip the LMS using an open and collaborative platform, and the related experience design goals of doing so:
+
+Why flip the LMS?
+* Support pedagogical goals unmet by current LMS/platform
+* Increase capability of access, sharing and collaboration
+* Deliver a better student (and facilitator) experience  
+
+Experience design goals:
+* For Students
+    * Engaging
+    * Organized
+    * Relevant
+    * Convenient
+    * Enjoyable  
+<br>
+* For Facilitator(s)
+    * Controllable (i.e. manageable)
+    * Pliable (i.e. flexible)
+    * Efficient
+    * Enjoyable (hey, instructors are people too...)  
 
 Interested in exploring a live example of a flipped-LMS course companion? Visit my [SFU](http://www.sfu.ca) CMPT 363 site at [http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com/) and its GitHub file repository at  [https://github.com/paulhibbitts/cmpt-363-153-website/](https://github.com/paulhibbitts/cmpt-363-153-website/).
 
