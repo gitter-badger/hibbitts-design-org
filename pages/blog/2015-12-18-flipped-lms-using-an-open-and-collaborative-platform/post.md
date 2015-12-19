@@ -35,6 +35,7 @@ _Figure 3. Flipped-LMS approach using an open and collaborative platform._
 As a bonus, here is how I use [Grav](http://getgrav.org), [GitHub](http://github.com) and [Deploy](http://deployhq.com) all together to support an open and collaborative flipped-LMS approach:  
 <br>
 ![Flipped-LMS approach using Grav, GitHub, and Deploy](flipped-lms-grav-github-deploy.png)  
+
 _Figure 4. Flipped-LMS approach using Grav CMS, GitHub, and Deploy._
 
 Interested in exploring a live example of a flipped-LMS course companion? Visit my [SFU](http://www.sfu.ca) CMPT 363 site at [http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com/) and its GitHub file repository at  [https://github.com/paulhibbitts/cmpt-363-153-website/](https://github.com/paulhibbitts/cmpt-363-153-website/).
