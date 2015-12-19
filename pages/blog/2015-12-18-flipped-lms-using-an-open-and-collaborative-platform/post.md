@@ -38,7 +38,7 @@ As a bonus, here is how I use [Grav](http://getgrav.org), [GitHub](http://github
 
 _Figure 4. Flipped-LMS approach using Grav CMS, GitHub, and Deploy._
 
-It's a good time to also review the experience goals for course instructors that can be met with the above approach:
+It's a good time to also review the experience goals for course instructors that are met with the above approach:
  * Controllable (i.e. manageable)  
  * Pliable (i.e. flexible)  
  * Efficient  
