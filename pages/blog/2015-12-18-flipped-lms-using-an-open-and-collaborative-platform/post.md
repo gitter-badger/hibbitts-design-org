@@ -35,7 +35,7 @@ _Figure 3. Flipped-LMS approach using an open and collaborative platform._
 ![Flipped-LMS approach using Grav, GitHub, and Deploy](flipped-lms-grav-github-deploy.png)  
 _Figure 4. Flipped-LMS approach using Grav CMS, GitHub, and Deploy._
 
-Interested in exploring a live example of a flipped-LMS approach built with [Grav](http://getgrav.org) CMS and using [GitHub](http:www.github.com) and [Deploy](http://deployhq.com)? Visit my [SFU](http://www.sfu.ca) CMPT 363 course companion at [http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com/) and it's GitHub file repository at [https://github.com/paulhibbitts/cmpt-363-153-website/](https://github.com/paulhibbitts/cmpt-363-153-website/).
+Interested in exploring a live example of a flipped-LMS approach built with [Grav](http://getgrav.org) CMS and using [GitHub](http:www.github.com) and [Deploy](http://deployhq.com)? Visit my [SFU](http://www.sfu.ca) CMPT 363 course companion at [http://cmpt-363-153.hibbittsdesign.com/](http://cmpt-363-153.hibbittsdesign.com/) and its GitHub file repository at [https://github.com/paulhibbitts/cmpt-363-153-website/](https://github.com/paulhibbitts/cmpt-363-153-website/).
 
 You can also learn more about the super efficient workflow that happens behind-the-scenes in my earlier article [
 My Dream Workflow as an Instructor)](../my-dream-workflow-as-an-instructor).
