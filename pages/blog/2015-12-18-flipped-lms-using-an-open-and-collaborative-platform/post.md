@@ -1,5 +1,5 @@
 ---
-title: 'Flipped-LMS Approach Using an Open and Collaborative Platform'
+title: 'Flipped-LMS Approach Using an Open and Collaborative Course Platform'
 slug: flipped-lms-using-an-open-and-collaborative-platform
 date: '18-12-2015 00:00'
 published: true
