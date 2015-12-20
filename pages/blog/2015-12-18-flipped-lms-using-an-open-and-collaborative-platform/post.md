@@ -18,7 +18,7 @@ metadata:
     'twitter:image' : http://hibbittsdesign.org/user/pages/blog/2015-12-18-flipped-lms-using-an-open-and-collaborative-platform/flipped-lms-open-collaborative-platform.png
 ---
 
-Just in time for the holidays, here is the second iteration of some visualizations I've been working on recently:
+Just in time for the holidays, here is the ~~second~~ third iteration of some visualizations I've been working on recently:
 * Flipped-LMS
 * Open and collaborative course platform
 * Flipped-LMS approach using an open and collaborative course platform (where the magic really happens)
