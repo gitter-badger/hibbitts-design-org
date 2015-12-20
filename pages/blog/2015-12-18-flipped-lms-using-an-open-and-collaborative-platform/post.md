@@ -20,17 +20,17 @@ metadata:
 
 Just in time for the holidays, here is the second iteration of some visualizations I've been working on recently:
 * Flipped-LMS
-* Open and collaborative platform
-* Flipped-LMS approach using an open and collaborative platform (where the magic really happens)
+* Open and collaborative course platform
+* Flipped-LMS approach using an open and collaborative course platform (where the magic really happens)
 
 ![Flipped-LMS approach](flipped-lms.png)  
 _Figure 1. Flipped-LMS approach._
 <br><br>
-![Open and collaborative platform](open-collaborative-platform.png)  
-_Figure 2. Open and collaborative platform._
+![Open and collaborative course platform](open-collaborative-platform.png)  
+_Figure 2. Open and collaborative course platform._
 <br><br>
 ![Flipped-LMS approach using an open and collaborative platform](flipped-lms-open-collaborative-platform.png)  
-_Figure 3. Flipped-LMS approach using an open and collaborative platform._  
+_Figure 3. Flipped-LMS approach using an open and collaborative course platform._  
 <br>
 As a bonus, here is how I use [Grav](http://getgrav.org), [GitHub](http://github.com) and [Deploy](http://deployhq.com) all together to support an open and collaborative flipped-LMS approach:  
 <br>
