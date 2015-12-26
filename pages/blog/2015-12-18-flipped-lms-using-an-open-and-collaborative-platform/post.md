@@ -1,5 +1,5 @@
 ---
-title: 'Flipped-LMS Approach Using an Open and Collaborative Platform'
+title: 'Flipped-LMS Approach Using an Open and Collaborative Web Platform'
 slug: flipped-lms-using-an-open-and-collaborative-platform
 date: '18-12-2015 00:00'
 published: true
@@ -13,7 +13,7 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : Flipped-LMS Approach Using an Open and Collaborative Platform
+    'twitter:title' : Flipped-LMS Approach Using an Open and Collaborative Web Platform
     'twitter:description' : A set of four visualizations, each with a Creative Commons (CC) license.
     'twitter:image' : http://hibbittsdesign.org/user/pages/blog/2015-12-18-flipped-lms-using-an-open-and-collaborative-platform/flipped-lms-open-collaborative-platform.png
 ---
