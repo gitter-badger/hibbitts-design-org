@@ -29,12 +29,12 @@ Here is a snapshot of the approach that has produced the best results for me so 
   ![Grav Admin Panel Dashboard](dashboard.png)  
   _Figure 2. Grav Admin Panel Dashboard._
 
-* A GitHub repository containing _only_ the "Pages" folder of the Grav instance. This results in having only content files (using Markdown) being presented in the repository, bringing a high-level of visibility to the content files of your site for users who wish to interact directly with the GitHub repository. You can view the GitHub repository of my example "Pages" site folder at [https://github.com/hibbitts-design/course-companion-starter-kit](https://github.com/hibbitts-design/course-companion-starter-kit)  
+* A GitHub repository containing _only_ the "Pages" folder of the Grav instance. This results in having only content files (using Markdown) being presented in the repository, bringing a high-level of visibility to the content files of your site for users who wish to interact directly with the GitHub repository. You can view the GitHub repository of my example "Pages" site folder at [github.com/hibbitts-design/course-companion-starter-kit](https://github.com/hibbitts-design/course-companion-starter-kit)  
 
   ![Example GitHub repository](course-companion-starter-kit-github.png)  
   _Figure 3. Example GitHub repository, containing only the "Pages" folder._
 
-* Using a GetHub Webhook either through a service such as [Deploy](https://www.deployhq.com/), or directly by adding the needed PHP file (see [Grav Development with GitHub - Part 2](http://getgrav.org/blog/developing-with-github-part-2) on [getgrav.org](http://getgrav.org/)), configure a site update to be automatically performed when one or more content files are modified on GitHub.
+* Using a GetHub Webhook either through a service such as [Deploy](https://www.deployhq.com/), or directly by adding the needed PHP file (see [Grav Development with GitHub - Part 2](getgrav.org/blog/developing-with-github-part-2) on [getgrav.org](http://getgrav.org/)), configure a site update to be automatically performed when one or more content files are modified on GitHub.
 
 We now have a simple open publishing system which leverages the power of GitHub! Anytime someone makes a change in the GitHub repository, and you approve of the change, the results will be automatically published to your live site. As well, all of your edits, etc. are available for public viewing and commentary. The content made available on GitHub may also be forked and used for other useful purposes.
 
@@ -42,7 +42,7 @@ It should be noted that you would want to make any significant changes to the ch
 
 Here is an overview of the flow of someone making a change to your site content via GitHub:
 
-1. Viewing the Grav site, a viewer can click the provided "Edit this Page" link to propose changes to the page. You can view an example site with this ability at [http://www.hibbittsdesign.org/coursecompanionstarterkit/](http://www.hibbittsdesign.org/coursecompanionstarterkit/)  
+1. Viewing the Grav site, a viewer can click the provided "Edit this Page" link to propose changes to the page. You can view a live example of this technique at my [Course Companion Starter Kit](http://www.hibbittsdesign.org/coursecompanionstarterkit/) prototype site.  
 
   ![Example site page - Overview](Overview.png)  
   _Figure 4. Example site page - Overview, using a modified version of the Learn2 theme with a link to edit the page on GitHub._
