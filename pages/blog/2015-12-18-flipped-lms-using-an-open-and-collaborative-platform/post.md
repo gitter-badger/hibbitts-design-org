@@ -21,7 +21,7 @@ metadata:
 Just in time for the holidays, here is the ~~second~~ third iteration of some visualizations I've been working on recently:
 * Flipped-LMS
 * Open and collaborative Web platform
-* Flipped-LMS approach using an open and collaborative platform (where the magic really happens)
+* Flipped-LMS approach using an open and collaborative Web platform (where the magic really happens)
 
 ![Flipped-LMS approach](flipped-lms.png)  
 _Figure 1. Flipped-LMS approach._
