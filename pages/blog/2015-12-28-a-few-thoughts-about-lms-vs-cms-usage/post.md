@@ -35,4 +35,4 @@ _Here are a few recent thoughts about the usage of LMSs and CMSs outside of scho
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Likelihood instructors use LMS tools outside of courses? ~ 0%&#10;Likelihood instructors use open source CMS tools outside of courses? ≫ 0%</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/681552409135415297">December 28, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
-A [flipped-LMS approach](../flipped-lms-using-an-open-and-collaborative-platform) using an open and collaborative Web platform (i.e. CMS) minimizes effort/time with closed LMS and maximizes time/effort with an open source CMS. 
+A [flipped-LMS approach](../flipped-lms-using-an-open-and-collaborative-platform) using an open and collaborative Web platform (i.e. CMS) minimizes effort/time with a closed LMS and maximizes time/effort with an open source CMS. 
