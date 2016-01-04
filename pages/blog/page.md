@@ -1,5 +1,5 @@
 ---
-title: 'Experience Design / Flipped-LMS / GitHub Collab / Grav CMS'
+title: 'Experience Design / Education / Multi-device / Grav CMS'
 sitemap:
     changefreq: monthly
     priority: 1.03
