@@ -14,6 +14,8 @@ taxonomy:
         - Flipped-LMS
         - LMS
         - GitHub
+        - MAMP
+        - Atom.io
         - GravCMS
         - CanvasLMS
 ---
