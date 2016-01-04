@@ -7,6 +7,7 @@ published: true
 taxonomy:
     tags:
         - Flipped-LMS
+        - LMS
         - GitHub
         - GravCMS
 metadata:

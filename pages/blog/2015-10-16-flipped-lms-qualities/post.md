@@ -6,6 +6,7 @@ comments: true
 taxonomy:
     tags:
         - Flipped-LMS
+        - LMS
         - ExperienceDesign
 metadata:
     'twitter:card' : summary

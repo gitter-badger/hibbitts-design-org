@@ -11,6 +11,7 @@ metadata:
 taxonomy:
     tags:
         - Flipped-LMS
+        - LMS
 ---
 
 So, why would course facilitators want to utilize a flipped-LMS approach?  

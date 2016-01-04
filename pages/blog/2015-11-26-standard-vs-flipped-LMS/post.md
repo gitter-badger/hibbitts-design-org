@@ -11,7 +11,7 @@ metadata:
 taxonomy:
     tags:
         - Flipped-LMS
-        - Traditional-LMS
+        - LMS
 ---
 
 In a recent discussion the question of how a traditional LMS implementation compares to a [flipped LMS](../redefining-a-flipped-lms-approach) was asked. Here are my initial thoughts so far, based on my experiences with several institutional LMSs and using the flat-file CMS [Grav](http://www.getgrav.org) in a flipped-LMS approach:

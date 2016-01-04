@@ -12,6 +12,7 @@ metadata:
 taxonomy:
     tags:
         - Flipped-LMS
+        - LMS
         - GitHub
         - GravCMS
         - CanvasLMS

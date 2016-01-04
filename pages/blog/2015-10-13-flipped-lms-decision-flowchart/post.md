@@ -6,6 +6,7 @@ comments: true
 taxonomy:
     tags:
         - Flipped-LMS
+        - LMS
         - Diagram
 metadata:
     'twitter:card' : summary

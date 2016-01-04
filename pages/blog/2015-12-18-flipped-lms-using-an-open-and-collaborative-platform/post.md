@@ -6,9 +6,11 @@ published: true
 taxonomy:
     tags:
         - Flipped-LMS
+        - LMS
         - OpenPractice
         - GitHub
         - GravCMS
+        - Deploy
         - Diagram
 metadata:
     'twitter:card' : summary
