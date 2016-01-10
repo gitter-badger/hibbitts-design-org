@@ -4,7 +4,7 @@ description: "An archive of posts."
 
 content:
     items:
-        @page: /blog
+        @page: /posts
     order:
         by: date
         dir: desc

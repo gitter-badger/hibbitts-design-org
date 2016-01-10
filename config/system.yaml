@@ -1,7 +1,7 @@
 absolute_urls: false
 
 home:
-  alias: '/blog'
+  alias: '/posts'
 
 pages:
   theme: mytheme

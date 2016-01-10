@@ -1,10 +1,11 @@
 email: paul@paulhibbitts.com
+fullname: 'Paul Hibbitts'
+title: Administrator
+state: enabled
 access:
   admin:
     login: true
     super: true
   site:
     login: true
-fullname: 'Paul Hibbitts'
-title: 'Educator/Interaction Designer'
-hashed_password: $2y$10$wrOMwR2AN445OrV81tuGyectYxwOvCKK/8XhgFjBtaAhe5JuhfPqy
+hashed_password: $2y$10$wZueNPEx7WALrQGPvd4hceJJ55CnkPKv5ZnzrP/6YnNWI0Yxvg73e
