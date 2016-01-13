@@ -1,5 +1,7 @@
 # HPSTR Grav Skeleton
 
+[![Join the chat at https://gitter.im/hibbitts-design/hibbitts-design-org](https://badges.gitter.im/hibbitts-design/hibbitts-design-org.svg)](https://gitter.im/hibbitts-design/hibbitts-design-org?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This theme is a port of the [Jekyll HPSTR Theme](https://github.com/mmistakes/hpstr-jekyll-theme) developed my [mmistakes](https://mademistakes.com/)
 
 ## Basic Setup for a new Grav site
